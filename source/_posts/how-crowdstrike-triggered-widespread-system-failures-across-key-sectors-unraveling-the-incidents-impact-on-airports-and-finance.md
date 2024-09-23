@@ -1,7 +1,7 @@
 ---
 title: "How CrowdStrike Triggered Widespread System Failures Across Key Sectors: Unraveling the Incident's Impact on Airports & Finance"
-date: 2024-09-18 18:22:27
-updated: 2024-09-20 10:30:31
+date: 2024-09-21T16:38:03.893Z
+updated: 2024-09-23T16:20:20.881Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-analyzing-the-significance-of-instagrams-selfie-verification-for-2024/"><u>[New] Analyzing the Significance of Instagram's Selfie Verification for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-guide-to-free-pc-software-for-capturing-tv/"><u>[New] Expert Guide to Free PC Software for Capturing TV</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-for-optimizing-facebooks-auto-play-videos/"><u>[Updated] 2024 Approved Tips for Optimizing Facebook's Auto-Play Videos</u></a></li>
+<li><a href="https://win-info.techidaily.com/mpeg-m4r-movavi/"><u>線上無限制隨時間改變 MPEG 成為 M4R - Movavi 影片格式轉換器</u></a></li>
+<li><a href="https://win-info.techidaily.com/conversion-libre-de-fichier-trp-a-mp4-avec-movavi/"><u>Conversion Libre De Fichier TRP À MP4 Avec Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-hd-and-sd-videos-effortlessly-with-macx-video-converter-get-your-free-mac-download-now/"><u>Convert HD & SD Videos Effortlessly with MacX Video Converter - Get Your FREE Mac Download Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-techniques-leveraging-agentgpt-for-ai-agent-creation-and-deployment-in-the-browser/"><u>Innovative Techniques: Leveraging AgentGPT for AI Agent Creation and Deployment in the Browser</u></a></li>
+<li><a href="https://win-info.techidaily.com/meet-carrie-marshall-of-movavi-expert-portrait-and-wedding-photography-services/"><u>Meet Carrie Marshall of Movavi: Expert Portrait and Wedding Photography Services</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-list-best-livestream-shopping-apps-of/"><u>New 2024 Approved Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://win-info.techidaily.com/passos-faceis-para-fazer-cuts-no-adobe-after-effects-tutoriais-completos/"><u>Passos Fáceis Para Fazer Cuts No Adobe After Effects - Tutoriais Completos</u></a></li>
+<li><a href="https://win-info.techidaily.com/portfolio-of-ophelie-bellevitas-captivating-images-on-movavi-platform/"><u>Portfolio of Ophélie Bellevita's Captivating Images on Movavi Platform</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
