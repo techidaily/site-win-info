@@ -1,7 +1,7 @@
 ---
 title: "Exploring Splash Version 2.0: Enhanced Capabilities Unveiled"
-date: 2024-09-26T00:34:28.807Z
-updated: 2024-09-28T00:30:03.471Z
+date: 2024-09-29T06:04:07.674Z
+updated: 2024-10-02T20:25:37.991Z
 tags:
   - product
 categories:
@@ -28,13 +28,6 @@ Splash Overview
 
 ## Splash All Features
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Splash - The ultimate free HD video player
 
 Available for
@@ -43,19 +36,40 @@ Windows Vista, 7, 8, 8.1, 10, 11
 
 [Download](https://tools.techidaily.com/mirillis/products/) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Supported** video playback
 
 | Hardware accelerated decoding | HEVC/H.265 MPEG-4 AVC/H.264 MPEG-2 SMPTE VC-1 DivX WMV                                                                   | ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) \- \- | \- ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) | ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) \- \- | ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) \- \- |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 | Software decoding             | HEVC/H.265 MPEG-4 AVC/H.264 MPEG-1 / MPEG-2 SMPTE VC-1 DivX (with DivX codec installed) DV (with DV codec installed) WMV |                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
   
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Supported** audio playback
@@ -83,10 +97,10 @@ Windows Vista, 7, 8, 8.1, 10, 11
   
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File **exporting/converting** and uploading features
@@ -109,13 +123,6 @@ Windows Vista, 7, 8, 8.1, 10, 11
 | ------------------------- |
   
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### General features
 
@@ -148,19 +155,22 @@ Windows Vista, 7, 8, 8.1, 10, 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-info.techidaily.com/flipbuildercom-professional-spelling-correction-and-editing-before-transforming-txt-to-stunning-flipbooks/"><u>[FlipBuilder.com]: Professional Spelling Correction and Editing Before Transforming TXT to Stunning Flipbooks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[New] 2024 Approved The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-launchpad-to-digital-society-the-essentials-of-facebook-account-creation/"><u>[New] In 2024, Launchpad to Digital Society The Essentials of Facebook Account Creation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-holistic-locomotion-scrutiny-report/"><u>[Updated] 2024 Approved Holistic Locomotion Scrutiny Report</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comparing-pixel-wearables-to-galaxy-smartwatches-is-google-on-par-with-samsungs-innovation-in-timepieces/"><u>Comparing Pixel Wearables to Galaxy Smartwatches: Is Google on Par with Samsung's Innovation in Timepieces?</u></a></li>
-<li><a href="https://win-info.techidaily.com/copying-embedded-media-between-webpages-with-ease-insights-from-flipbuilders-platform/"><u>Copying Embedded Media Between Webpages with Ease: Insights From FlipBuilder's Platform</u></a></li>
-<li><a href="https://win-info.techidaily.com/effortless-digital-reading-with-page-flip-ebooks-access-your-library-anywhere-on-pcmobilediscover-at-flipbuildercom/"><u>Effortless Digital Reading with Page Flip eBooks - Access Your Library Anywhere, On PC/Mobile![Discover at FlipBuilder.com]</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171021579-enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels!</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-check-for-flip-builders-official-mark-on-your-recently-acquired-output-publications/"><u>How to Check for Flip Builder’s Official Mark on Your Recently Acquired Output Publications</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-create-a-flash-flipping-book-from-individual-web-pages-using-flipbuilder/"><u>How to Create a Flash Flipping Book From Individual Web Pages Using FlipBuilder</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-zte-axon-40-lite-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from ZTE Axon 40 Lite to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/rhythmic-entry-points-curating-soundscapes-for-podcasts/"><u>Rhythmic Entry Points Curating Soundscapes for Podcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamlessly-capture-and-store-your-favorite-episodes-on-iphone-for-2024/"><u>Seamlessly Capture and Store Your Favorite Episodes on iPhone for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos-for-2024/"><u>[New] Your Video, Their Feast How to Craft GIFs From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-sidestep-green-screen-gaffes-your-essential-mac-fix-guide/"><u>[Updated] In 2024, Sidestep Green Screen Gaffes Your Essential Mac Fix Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres-for-2024/"><u>Advanced 3D Shaping Crafting Perfect MC Circles & Spheres for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-magic-6-lite-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor Magic 6 Lite</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensure-uninterrupted-adventures-your-guide-to-solving-path-of-exile-connection-errors/"><u>Ensure Uninterrupted Adventures : Your Guide to Solving Path of Exile Connection Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-warzone-how-to-ensure-game-uses-your-graphics-card-on-windows-10/"><u>Fixing Warzone: How to Ensure Game Uses Your Graphics Card on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-epic-games-launcher-login-issues-on-windows/"><u>How to Fix Epic Games Launcher Login Issues on Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-orchestrate-an-engaging-statement-with-tunes/"><u>In 2024, Orchestrate an Engaging Statement with Tunes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>In 2024, Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/resolving-issues-with-downloading-https-video-streams-a-step-by-step-guide/"><u>Resolving Issues with Downloading HTTPS Video Streams: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/secure-your-favorite-vids-from-camwhores-site-with-easy-steps/"><u>Secure Your Favorite Vids From CamWhores Site with Easy Steps</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-downloading-expert-trading-video-lessons-from-pro-traders-club/"><u>Step-by-Step Guide: Downloading Expert Trading Video Lessons From Pro Traders Club</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-instructions-for-downloading-and-viewing-movie-webs-top-picks-in-news-and-reviews/"><u>Step-by-Step Instructions for Downloading and Viewing Movie Web's Top Picks in News & Reviews</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-on-finding-and-downloading-the-entire-captain-america-civil-war-film-as-a-free-mp4-file/"><u>Step-by-Step Tutorial on Finding and Downloading the Entire Captain America: Civil War Film as a Free MP4 File</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-on-securing-hd-hip-hop-dance-footage-in-multiple-video-codecs/"><u>Step-by-Step Tutorial on Securing HD Hip Hop Dance Footage in Multiple Video Codecs</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-accessing-youtube-videos-on-huawei-phones-and-tablets/"><u>Step-by-Step Tutorial: Accessing YouTube Videos on Huawei Phones & Tablets</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-how-to-save-your-favorite-the-daily-show-shows-as-mp4-mp3-avi-and-more/"><u>Step-by-Step Tutorial: How to Save Your Favorite 'The Daily Show' Shows as MP4, MP3, AVI, & More!</u></a></li>
 </ul></div>
 

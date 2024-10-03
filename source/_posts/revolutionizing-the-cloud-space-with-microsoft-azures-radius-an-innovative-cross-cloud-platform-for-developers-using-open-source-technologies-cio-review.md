@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing the Cloud Space with Microsoft Azure's Radius: An Innovative, Cross-Cloud Platform for Developers Using Open Source Technologies | CIO Review"
-date: 2024-09-20T19:15:36.433Z
-updated: 2024-09-27T18:53:32.134Z
+date: 2024-10-01T19:51:49.269Z
+updated: 2024-10-02T16:29:42.734Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,21 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1982499">
+<span id="1982457">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,19 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-list-of-affordable-licensed-game-music-websites-for-2024/"><u>[New] List of Affordable, Licensed Game Music Websites for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beat-the-yellow-tint-uncover-9-methods-to-restore-iphone-display-clarity/"><u>Beat the Yellow Tint: Uncover 9 Methods to Restore iPhone Display Clarity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-facile-pour-gerer-et-reparer-la-compatibilite-hevc-sous-les-systemes-dexploitation-windows-varies/"><u>Guide Facile Pour Gérer Et Réparer La Compatibilité HEVC Sous Les Systèmes D'Exploitation Windows Variés</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/o-edit-youtube-videos-in-adobe-premiere/"><u>How to Edit YouTube Videos in Adobe Premiere</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hugging-face-a-comprehensive-overview-of-its-function-and-usage/"><u>Hugging Face: A Comprehensive Overview of Its Function and Usage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-secrets-to-amassing-affordable-artistic-elements/"><u>In 2024, Secrets to Amassing Affordable Artistic Elements</u></a></li>
-<li><a href="https://win-info.techidaily.com/microsoft-raises-the-repairability-game-with-new-laptops-leaving-ifixit-impressed-and-rivals-like-apple-under-pressure-zdnet/"><u>Microsoft Raises the Repairability Game with New Laptops, Leaving iFixit Impressed and Rivals Like Apple Under Pressure | ZDNET</u></a></li>
-<li><a href="https://win-info.techidaily.com/microsoft-teams-etiquette-ignites-workplace-conflict-a-tale-of-management-and-employee-missteps-insights-from-zdnet/"><u>Microsoft Teams Etiquette Ignites Workplace Conflict: A Tale of Management and Employee Missteps - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-fallout-3-stability-issues-a-guide-for-windows-11-users/"><u>Resolving Fallout 3 Stability Issues: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-incorporating-audio-elements-into-your-language-learning-textbook-pages-with-flipbuilder/"><u>Step-by-Step Guide: Incorporating Audio Elements Into Your Language Learning Textbook Pages with FlipBuilder</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-edition-key-benefits-explained/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional Edition - Key Benefits Explained</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-future-is-flexible-how-microsofts-latest-gadgets-support-todays-dynamic-workspaces-tech-trends-on-zdnet/"><u>The Future Is Flexible: How Microsoft's Latest Gadgets Support Today's Dynamic Workspaces - Tech Trends on ZDNET</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-revelation-from-microsoft-on-achieving-authentic-joy-in-the-workplace-a-shocking-find-by-zdnet/"><u>The Revelation From Microsoft on Achieving Authentic Joy in the Workplace - A Shocking Find by ZDNet</u></a></li>
-<li><a href="https://win-info.techidaily.com/upcoming-fees-microsoft-announces-charge-for-windows-10-update-subscriptions-in-the-new-year-what-you-need-to-know/"><u>Upcoming Fees: Microsoft Announces Charge for Windows 10 Update Subscriptions in the New Year - What You Need to Know</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-producing-an-expressive-tiktok-conclusion-snippet/"><u>[New] 2024 Approved Producing an Expressive TikTok Conclusion Snippet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-video-grabbers-for-windows-10-pc/"><u>[New] Best Video Grabbers for Windows 10 PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/erfecting-your-clips-top-youtubers-cameras-listed-for-2024/"><u>[New] Perfecting Your Clips Top YouTubers' Cameras Listed for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-save-your-android-and-mac-snapchat-footage-effectively-for-2024/"><u>[New] Save Your Android & Mac Snapchat Footage Effectively for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/1-mastering-screen-captures-on-your-htc-one-expert-techniques/"><u>1. Mastering Screen Captures on Your HTC One: Expert Techniques</u></a></li>
+<li><a href="https://win-info.techidaily.com/1726225320548-mp3wma/"><u>高品質音声ファイルをMP3やWMAに直接変換! 利用者から信頼されるオンラインオーディオコンバーター</u></a></li>
+<li><a href="https://win-info.techidaily.com/best-6-mobile-apps-for-quick-and-affordable-passport-pictures-perfect-for-iphone-and-android-users/"><u>Best 6 Mobile Apps for Quick and Affordable Passport Pictures: Perfect for iPhone & Android Users</u></a></li>
+<li><a href="https://win-info.techidaily.com/cutting-edge-strategies-for-captivating-product-photos-on-android-and-ios-devices/"><u>Cutting-Edge Strategies for Captivating Product Photos on Android and iOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-resolve-cannot-perform-version-check-in-final-fantasy-xiv/"><u>How to Resolve 'Cannot Perform Version Check' In Final Fantasy XIV</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nubia-red-magic-9-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nubia Red Magic 9 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-iphone-x-lens-capabilities-a-guide-for-2024/"><u>Mastering iPhone X Lens Capabilities A Guide for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-essential-guide-find-the-ideal-video-logo-replacement-tool-among-these-top-picks/"><u>The Essential Guide: Find the Ideal Video Logo Replacement Tool Among These Top Picks!</u></a></li>
 </ul></div>
 

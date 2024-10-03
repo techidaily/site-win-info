@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of AI with Free Trial: Why Start Using Copilot Pro Today - Insights From ZDNet"
-date: 2024-09-24T00:16:29.515Z
-updated: 2024-09-28T04:33:58.338Z
+date: 2024-09-30T01:07:51.631Z
+updated: 2024-10-03T02:08:27.397Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-discovering-the-significance-of-blue-icons-on-fb-messaging-app/"><u>[Updated] 2024 Approved Discovering the Significance of Blue Icons on FB Messaging App</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-captioning-techniques-for-professional-youtube-content/"><u>[Updated] Captioning Techniques for Professional YouTube Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-creative-potential-with-top-rated-gif-makers/"><u>[Updated] Unlocking Creative Potential with Top-Rated GIF Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>2024 Approved Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
-<li><a href="https://win-info.techidaily.com/adding-a-flipbook-feature-to-your-website-with-easy-flipbuilder-steps/"><u>Adding a FlipBook Feature to Your Website with Easy FlipBuilder Steps</u></a></li>
-<li><a href="https://win-info.techidaily.com/convert-documents-to-ebooks-with-flip-builder-the-simple-guide-for-mac-users/"><u>Convert Documents to eBooks with Flip Builder: The Simple Guide for Mac Users</u></a></li>
-<li><a href="https://win-info.techidaily.com/copying-embedded-media-between-webpages-with-ease-insights-from-flipbuilders-platform/"><u>Copying Embedded Media Between Webpages with Ease: Insights From FlipBuilder's Platform</u></a></li>
-<li><a href="https://win-info.techidaily.com/easy-guide-picking-desired-page-sections-for-imports-with-flipbuilders-feature/"><u>Easy Guide: Picking Desired Page Sections for Imports with FlipBuilder's Feature</u></a></li>
-<li><a href="https://win-info.techidaily.com/effortless-digital-reading-with-page-flip-ebooks-access-your-library-anywhere-on-pcmobilediscover-at-flipbuildercom/"><u>Effortless Digital Reading with Page Flip eBooks - Access Your Library Anywhere, On PC/Mobile![Discover at FlipBuilder.com]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-c50-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco C50 to iPad | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/is-your-brand-displayed-in-our-licensed-flipbook-version-learn-more-at-flipbuildercom/"><u>Is Your Brand Displayed in Our Licensed FlipBook Version? Learn More at FlipBuilder.com</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-a-swift-overview-of-vn-video-editor-for-pc-users-for-2024/"><u>New A Swift Overview of VN Video Editor for PC Users for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/optimize-e-book-navigation-in-seconds-create-tocindexes-using-flipbuilder-today/"><u>Optimize E-Book Navigation in Seconds - Create TOC/Indexes Using FlipBuilder Today!</u></a></li>
-<li><a href="https://win-info.techidaily.com/preserving-your-custom-flipbook-creation-setup-on-flipbuilder-for-future-projects/"><u>Preserving Your Custom Flipbook Creation Setup on FlipBuilder for Future Projects</u></a></li>
-<li><a href="https://win-info.techidaily.com/quick-and-simple-tutorial-on-single-page-imports-using-flipbuilder-tool/"><u>Quick & Simple Tutorial on Single Page Imports Using FlipBuilder Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ghostwrite-loophole-an-architectural-mistake-that-enables-elevated-privilege-escalation-in-risc-v-systems/"><u>The GhostWrite Loophole: An Architectural Mistake That Enables Elevated Privilege Escalation in RISC-V Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transform-your-iphone-photos-into-searchable-pdfs-mastering-scan-ocr-and-file-conversion-in-finereader-app/"><u>Transform Your iPhone Photos Into Searchable PDFs: Mastering Scan, OCR, and File Conversion in FineReader App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-unleashing-power-saving-hacks-on-apples-shortcuts-app-top-18/"><u>Ultimate Guide: Unleashing Power-Saving Hacks on Apple's Shortcuts App (Top 18)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-mov-file-handling-in-windows-11/"><u>[New] The Ultimate Guide to MOV File Handling in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-workplace-cloud-storage-networks/"><u>[New] Top Workplace Cloud Storage Networks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-screen-partnerships-and-talent-licensing/"><u>[Updated] In 2024, Screen Partnerships and Talent Licensing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-10-top-must-have-gear-items-for-youtubers/"><u>2024 Approved 10 Top Must-Have Gear Items for YouTubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyrocket-your-storage-top-20-free-cloud-services-to-choose-from-1tbplus/"><u>2024 Approved Skyrocket Your Storage - Top 20 Free Cloud Services to Choose From (1TB+)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/adding-captions-and-text-a-guide-for-photo-titles-in-microsoft-photos-for-2024/"><u>Adding Captions and Text A Guide for Photo Titles in Microsoft Photos for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/ai-enabled-windows-11-notetool-unveiled-plus-upcoming-enhancements-for-snipping-tool/"><u>AI-Enabled Windows 11 Notetool Unveiled: Plus Upcoming Enhancements for Snipping Tool!</u></a></li>
+<li><a href="https://win-info.techidaily.com/effortless-data-protection-mastering-file-history-on-windows-10-and-11-expert-guide-from-zdnet/"><u>Effortless Data Protection: Mastering File History on Windows 10 & 11 - Expert Guide From ZDNet</u></a></li>
+<li><a href="https://win-info.techidaily.com/elite-guide-to-purchasing-windows-laptops-comprehensive-reviews-and-expert-opinions-zdnet/"><u>Elite Guide to Purchasing Windows Laptops: Comprehensive Reviews & Expert Opinions | ZDNet</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhanced-traffic-with-automated-tracking-the-benefits-of-using-cookiebot/"><u>Enhanced Traffic with Automated Tracking: The Benefits of Using Cookiebot</u></a></li>
+<li><a href="https://win-info.techidaily.com/enhancing-ai-powered-music-creation-with-the-latest-upgrades-on-github-copilot-techzdnet/"><u>Enhancing AI-Powered Music Creation with the Latest Upgrades on GitHub Copilot | TechZDNet</u></a></li>
+<li><a href="https://win-info.techidaily.com/exploring-the-microsoft-surface-laptop-n-a-closer-look-at-classic-features-and-new-enhancements-insights-from-zdnet/"><u>Exploring the Microsoft Surface Laptop N: A Closer Look at Classic Features & New Enhancements | Insights From ZDNET</u></a></li>
+<li><a href="https://win-info.techidaily.com/exploring-user-preferences-the-top-trending-internet-browsers/"><u>Exploring User Preferences: The Top Trending Internet Browsers</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-crowdstrike-triggered-widespread-system-failures-across-key-sectors-unraveling-the-incidents-impact-on-airports-and-finance/"><u>How CrowdStrike Triggered Widespread System Failures Across Key Sectors: Unraveling the Incident's Impact on Airports & Finance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 15</u></a></li>
+<li><a href="https://win-info.techidaily.com/microsoft-faces-major-challenges-with-windows-10-just-one-year-remaining-to-find-solutions-technewszdnet/"><u>Microsoft Faces Major Challenges with Windows 10: Just One Year Remaining to Find Solutions | TechNewsZDNet</u></a></li>
 </ul></div>
 

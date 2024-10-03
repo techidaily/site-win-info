@@ -1,7 +1,7 @@
 ---
 title: "Resurrecting Memories: Expert Tips for Accessing Forgotten Passwords on Old Computers | Digital Recovery with ZDNet"
-date: 2024-09-21T01:03:15.040Z
-updated: 2024-09-27T18:43:34.873Z
+date: 2024-09-27T19:01:38.243Z
+updated: 2024-10-03T05:28:04.584Z
 tags:
   - windows
 categories:
@@ -33,25 +33,11 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -62,24 +48,37 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -99,10 +98,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -116,6 +115,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,15 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-info.techidaily.com/flipbuildercom-professional-spelling-correction-and-editing-before-transforming-txt-to-stunning-flipbooks/"><u>[FlipBuilder.com]: Professional Spelling Correction and Editing Before Transforming TXT to Stunning Flipbooks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-social-media-strategy-fb-video-angles-for-2024/"><u>[Updated] Social Media Strategy – FB Video Angles for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/convert-documents-to-ebooks-with-flip-builder-the-simple-guide-for-mac-users/"><u>Convert Documents to eBooks with Flip Builder: The Simple Guide for Mac Users</u></a></li>
-<li><a href="https://win-info.techidaily.com/copying-embedded-media-between-webpages-with-ease-insights-from-flipbuilders-platform/"><u>Copying Embedded Media Between Webpages with Ease: Insights From FlipBuilder's Platform</u></a></li>
-<li><a href="https://win-info.techidaily.com/effortless-digital-reading-with-page-flip-ebooks-access-your-library-anywhere-on-pcmobilediscover-at-flipbuildercom/"><u>Effortless Digital Reading with Page Flip eBooks - Access Your Library Anywhere, On PC/Mobile![Discover at FlipBuilder.com]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-all-in-one-4k-with-touch-display/"><u>In 2024, Pinnacle All-in-One, 4K with Touch Display</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streamline-channels-effortlessly-top-10-online-design-aids/"><u>In 2024, Streamline Channels Effortlessly Top 10 Online Design Aids</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-xml-file-crash-course-for-fcpx-editors/"><u>The XML File Crash Course for FCPX Editors</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/transform-your-vision-youtubes-innovative-green-screen-solutions/"><u>Transform Your Vision – YouTube's Innovative Green Screen Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-effective-color-difference-filters-in-film-making/"><u>[New] Effective Color Difference Filters in Film-Making</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-gopro-hero5-a-comprehensive-footage-study/"><u>2024 Approved GoPro Hero5 A Comprehensive Footage Study</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-beyond-boundaries-with-innovative-wins11-titles/"><u>2024 Approved Step Beyond Boundaries with Innovative Wins11 Titles</u></a></li>
+<li><a href="https://win-info.techidaily.com/adapting-to-a-hybrid-future-microsoft-launches-innovative-productivity-gadgets/"><u>Adapting to a Hybrid Future: Microsoft Launches Innovative Productivity Gadgets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparacion-de-dvd-blu-ray-y-archivos-digitales-que-opcion-es-la-mejor-para-ti/"><u>Comparación De DVD, Blu-Ray Y Archivos Digitales: ¿Qué Opción Es La Mejor Para Ti?</u></a></li>
+<li><a href="https://win-info.techidaily.com/expert-analysis-microsofts-answer-to-apple-a-comprehensive-review-of-the-new-surface-pro/"><u>Expert Analysis: Microsoft's Answer to Apple - A Comprehensive Review of the New Surface Pro</u></a></li>
+<li><a href="https://win-info.techidaily.com/expert-tips-for-leveraging-speech-recognition-in-windows-11-featured-on-zdnet/"><u>Expert Tips for Leveraging Speech Recognition in Windows 11 | Featured on ZDNET</u></a></li>
+<li><a href="https://win-info.techidaily.com/grab-microsoft-office-at-no-cost-today-with-these-expert-strategies-by-zdnet/"><u>Grab Microsoft Office at No Cost Today with These Expert Strategies by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-reels-slow-motion-techniques-unveiled/"><u>Instagram Reels Slow-Motion Techniques Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y36i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y36i Phone FRP Lock</u></a></li>
+<li><a href="https://win-info.techidaily.com/revive-your-aging-pc-with-these-cost-free-tricks-before-upgrading-to-windows-10-zdnet/"><u>Revive Your Aging PC with These Cost-Free Tricks Before Upgrading to Windows 10 - ZDNet</u></a></li>
+<li><a href="https://win-info.techidaily.com/simplifying-the-complexity-how-microsofts-flawed-ai-was-cracked-with-minimal-skill-discovered-by-zdnet/"><u>Simplifying the Complexity: How Microsoft’s Flawed AI Was Cracked with Minimal Skill | Discovered by ZDNET</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-tech-picks-of-2024-apple-vs-dell-and-others-in-the-ultimate-zdnet-review/"><u>Top Tech Picks of 2024: Apple Vs. Dell & Others in the Ultimate ZDNet Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-applicationexe-halted-errors/"><u>Troubleshooting Tips: Overcoming 'Application.Exe' Halted Errors</u></a></li>
 </ul></div>
 

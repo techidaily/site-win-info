@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Quick Assist: A Superior Alternative to Remote Desktop for Effective Tech Support"
-date: 2024-09-25T01:18:00.495Z
-updated: 2024-09-28T01:13:19.661Z
+date: 2024-09-27T19:33:32.138Z
+updated: 2024-10-03T08:47:54.268Z
 tags:
   - windows
 categories:
@@ -27,18 +27,18 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create a new folder
 
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -74,13 +74,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -88,10 +81,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -116,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,21 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-obs-studio-masterclass-for-ps4-screen-capture-for-2024/"><u>[New] Obs Studio Masterclass for PS4 Screen Capture for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-synthesize-silliness-in-visual-gifs-with-giphy/"><u>[Updated] Synthesize Silliness in Visual Gifs with Giphy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-of-peacefulness-how-to-gently-dim-music-tracks/"><u>[Updated] The Path of Peacefulness How To Gently Dim Music Tracks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-free-online-video-tools-for-all/"><u>[Updated] The Ultimate Guide to Free Online Video Tools for All</u></a></li>
-<li><a href="https://win-info.techidaily.com/adding-a-flipbook-feature-to-your-website-with-easy-flipbuilder-steps/"><u>Adding a FlipBook Feature to Your Website with Easy FlipBuilder Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/bypassing-identification-to-explore-instagram-stories-desktop-android-ios-for-2024/"><u>Bypassing Identification to Explore Instagram Stories [Desktop, Android, iOS] for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/discover-the-popularity-of-digital-magazines-with-flipbuilders-interactive-platform/"><u>Discover the Popularity of Digital Magazines with FlipBuilder's Interactive Platform</u></a></li>
-<li><a href="https://win-info.techidaily.com/easy-guide-picking-desired-page-sections-for-imports-with-flipbuilders-feature/"><u>Easy Guide: Picking Desired Page Sections for Imports with FlipBuilder's Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ethical-approaches-to-locate-an-iphone-owner-a-step-by-nstep-guide/"><u>Ethical Approaches to Locate an iPhone Owner: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-4g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 4G Bootloader Easily</u></a></li>
-<li><a href="https://win-info.techidaily.com/is-your-brand-displayed-in-our-licensed-flipbook-version-learn-more-at-flipbuildercom/"><u>Is Your Brand Displayed in Our Licensed FlipBook Version? Learn More at FlipBuilder.com</u></a></li>
-<li><a href="https://win-info.techidaily.com/optimize-e-book-navigation-in-seconds-create-tocindexes-using-flipbuilder-today/"><u>Optimize E-Book Navigation in Seconds - Create TOC/Indexes Using FlipBuilder Today!</u></a></li>
-<li><a href="https://win-info.techidaily.com/preserving-your-custom-flipbook-creation-setup-on-flipbuilder-for-future-projects/"><u>Preserving Your Custom Flipbook Creation Setup on FlipBuilder for Future Projects</u></a></li>
-<li><a href="https://win-info.techidaily.com/quick-and-simple-tutorial-on-single-page-imports-using-flipbuilder-tool/"><u>Quick & Simple Tutorial on Single Page Imports Using FlipBuilder Tool</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smoothing-play-rectifying-computer-glitches-in-civ-5/"><u>Smoothing Play: Rectifying Computer Glitches in Civ 5</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-best-ten-spotify-equipment-for-high-quality-recording-for-2024/"><u>The Best Ten Spotify Equipment for High-Quality Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-filtering-the-truth-in-your-insta-network-for-2024/"><u>[New] Filtering the Truth in Your Insta Network for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-superior-sound-recorders-for-scholarly-discussions/"><u>[Updated] In 2024, Superior Sound Recorders for Scholarly Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-snapchats-spotlight-mechanics/"><u>[Updated] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-your-world-no-cost-screen-recording-apps-for-pcmac-for-2024/"><u>Capture Your World No-Cost Screen Recording Apps for PC/Mac for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-features-hands-on-with-the-samsung-galaxy-budsplus/"><u>Discovering the Features: Hands-On with the Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-zte-blade-a73-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It ZTE Blade A73 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-smart-7-hd-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Smart 7 HD to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/microsofts-surprising-discovery-true-employee-happiness-unveiled/"><u>Microsoft's Surprising Discovery: True Employee Happiness Unveiled</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-future-is-flexible-how-microsofts-latest-gadgets-support-todays-dynamic-workspaces-tech-trends-on-zdnet/"><u>The Future Is Flexible: How Microsoft's Latest Gadgets Support Today's Dynamic Workspaces - Tech Trends on ZDNET</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-revelation-from-microsoft-on-achieving-authentic-joy-in-the-workplace-a-shocking-find-by-zdnet/"><u>The Revelation From Microsoft on Achieving Authentic Joy in the Workplace - A Shocking Find by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-resource-for-writing-youtube-videos-with-chatgpt/"><u>The Ultimate Resource for Writing YouTube Videos with ChatGPT</u></a></li>
+<li><a href="https://win-info.techidaily.com/upcoming-fees-microsoft-announces-charge-for-windows-10-update-subscriptions-in-the-new-year-what-you-need-to-know/"><u>Upcoming Fees: Microsoft Announces Charge for Windows 10 Update Subscriptions in the New Year - What You Need to Know</u></a></li>
+<li><a href="https://win-info.techidaily.com/upcoming-revolutionary-windows-on-arm-applications-why-you-cant-ignore-them/"><u>Upcoming Revolutionary Windows on ARM Applications: Why You Can't Ignore Them!</u></a></li>
+<li><a href="https://win-info.techidaily.com/upgrading-from-windows-home-to-professional-version-tips-and-reasons-zdnet/"><u>Upgrading From Windows Home to Professional Version: Tips & Reasons - ZDNet</u></a></li>
 </ul></div>
 

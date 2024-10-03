@@ -1,7 +1,7 @@
 ---
 title: The Revelation From Microsoft on Achieving Authentic Joy in the Workplace - A Shocking Find by ZDNet
-date: 2024-09-22T16:16:20.206Z
-updated: 2024-09-28T04:00:10.355Z
+date: 2024-09-26T23:32:56.670Z
+updated: 2024-10-03T05:31:44.177Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-guide-5-best-free-pinterest-video-downloads/"><u>[New] 2024 Approved Essential Guide 5 Best FREE Pinterest Video Downloads</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-shine-a-light-the-12-ultimate-fixes-for-making-facebook-videos-visible-again/"><u>[Updated] 2024 Approved Shine a Light The 12 Ultimate Fixes for Making Facebook Videos Visible Again</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots/"><u>[Updated] In 2024, Pixelated Persistence Selecting the Ultimate Cam for Extended Shots</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pro-chromebook-record-unmatched-screen-capture/"><u>[Updated] Pro Chromebook Record Unmatched Screen Capture</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-m2ts-mp4/"><u>最佳快速策略：如何使用 Movavi 转换 M2TS 到 MP4 - 专业指南</u></a></li>
-<li><a href="https://win-info.techidaily.com/accelerate-your-pcs-performance-the-hidden-windows-11-feature-to-quickly-terminate-sluggish-programs-insights-from-zdnet/"><u>Accelerate Your PC's Performance: The Hidden Windows 11 Feature to Quickly Terminate Sluggish Programs - Insights From ZDNet</u></a></li>
-<li><a href="https://win-info.techidaily.com/building-a-tailored-copilot-gpt-just-for-you-discover-the-process/"><u>Building a Tailored Copilot GPT Just for You – Discover the Process!</u></a></li>
-<li><a href="https://facebook.techidaily.com/building-bonds-beyond-the-blue-feathered-bird/"><u>Building Bonds Beyond the Blue Feathered Bird</u></a></li>
-<li><a href="https://win-info.techidaily.com/celebrate-wayday-2022-with-savings-shop-our-top-pick-in-standing-desks-for-just-329-at-zdnet/"><u>Celebrate WayDay 2022 with Savings: Shop Our Top Pick in Standing Desks for Just $329 at ZDNet!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://win-info.techidaily.com/revamp-your-game-room-discover-secretlab-skins-for-a-stylish-touch-on-car-seats-and-more-insights-from-zdnet/"><u>Revamp Your Game Room: Discover Secretlab Skins for a Stylish Touch on Car Seats & More – Insights From ZDNET</u></a></li>
-<li><a href="https://win-info.techidaily.com/simplifying-the-complexity-how-microsofts-flawed-ai-was-cracked-with-minimal-skill-discovered-by-zdnet/"><u>Simplifying the Complexity: How Microsoft’s Flawed AI Was Cracked with Minimal Skill | Discovered by ZDNET</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-debatable-strategy-microsoft-offers-to-supervisors-according-to-zdnet-a-closer-look-at-the-unpopularity-among-executives/"><u>The Debatable Strategy Microsoft Offers to Supervisors According to ZDNet – A Closer Look at the Unpopularity Among Executives</u></a></li>
-<li><a href="https://win-info.techidaily.com/top-rated-acoustic-drapes-the-ultimate-list-as-featured-on-zdnet/"><u>Top-Rated Acoustic Drapes : The Ultimate List as Featured on ZDNet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-take-your-videos-to-the-next-level-professional-results-guaranteed-for-2024/"><u>Updated Take Your Videos to the Next Level Professional Results Guaranteed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-instant-images-guide-easy-recording-tips-dell/"><u>[New] 2024 Approved Instant Images Guide Easy Recording Tips (Dell)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expertly-charged-hero5-black-batteries-authenticity-and-counterparts/"><u>[New] Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-adding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>[New] In 2024, Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-installation-masterclass-transitioning-to-macos-sierra/"><u>[Updated] In 2024, Installation Masterclass Transitioning to macOS Sierra</u></a></li>
+<li><a href="https://win-info.techidaily.com/1726227517724-3gpp3gp-movavi/"><u>免費在線3GPP到3GP文件轉換服務-Movavi的高效解決方案</u></a></li>
+<li><a href="https://win-info.techidaily.com/conversion-avi-a-mp4-top-5-metodos-para-optimizar-tu-dispositivo-mac/"><u>Conversión AVI a MP4: Top 5 Métodos Para Optimizar Tu Dispositivo Mac</u></a></li>
+<li><a href="https://win-info.techidaily.com/conversione-gratuita-online-da-mkv-a-3gp-con-movavi-guida-rapida/"><u>Conversione Gratuita Online Da MKV a 3GP Con Movavi - Guida Rapida</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-features-of-telegram-messenger-application/"><u>Exploring the Features of Telegram Messenger Application</u></a></li>
+<li><a href="https://win-info.techidaily.com/gravacion-de-video-a-formato-de-audio-libre-y-gratuita-con-mp4-a-mp3-online/"><u>Gravación De Video a Formato De Audio Libre Y Gratuita Con MP4 a MP3 Online</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-strategies-to-illuminate-troubleshooting-mending-black-screens-on-dell-machines/"><u>In-Depth Strategies to Illuminate Troubleshooting: Mending Black Screens on Dell Machines</u></a></li>
+<li><a href="https://win-info.techidaily.com/metodo-rapido-y-gratuito-para-convertir-musica-wma-a-mp3-con-el-servicio-web-de-convertidor-movavi/"><u>Método Rápido Y Gratuito Para Convertir Música WMA a MP3 Con El Servicio Web De Convertidor Movavi</u></a></li>
+<li><a href="https://win-info.techidaily.com/transforma-tu-video-tga-en-un-rapido-gif-animado-la-inolvidable-solucion-de-conversion-libre-y-online-por-movavi/"><u>Transforma Tu Video TGA en Un Rápido GIF Animado: La Inolvidable Solución De Conversión Libre Y OnLine Por Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-final-fantasy-xiv-update-verification-process/"><u>Trouble with Final Fantasy XIV Update Verification Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288789141-winxvideo-ai/"><u>WinXVideo AIがもたらす革新的な機能 - 最新バージョン披露直前！</u></a></li>
 </ul></div>
 
