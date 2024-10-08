@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: Microsoft's Answer to Apple - A Comprehensive Review of the New Surface Pro"
-date: 2024-09-28T20:17:54.785Z
-updated: 2024-10-03T06:42:07.378Z
+date: 2024-10-02T16:42:24.128Z
+updated: 2024-10-08T16:09:59.799Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-eliminating-oculus-sickness-key-tactics/"><u>[New] Eliminating Oculus Sickness Key Tactics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>[New] In 2024, SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-social-media-a-focus-on-snapchat-business-for-2024/"><u>[New] Mastering Social Media A Focus on SnapChat Business for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-perfect-bgms-and-images-elevating-remote-conferencing/"><u>[Updated] 2024 Approved Perfect BGMs & Images Elevating Remote Conferencing</u></a></li>
-<li><a href="https://win-info.techidaily.com/1-seamless-music-transfer-from-spotify-to-itunes-with-superfast-converter/"><u>1. Seamless Music Transfer From Spotify to iTunes with SuperFast Converter</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/st-youtube-makeup-artists-you-must-have-heard-for-2024/"><u>10 Best YouTube Makeup Artists You Must Have Heard for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/6-effective-steps-to-resolve-your-sky-on-demand-downloading-issues/"><u>6 Effective Steps to Resolve Your Sky On Demand Downloading Issues</u></a></li>
-<li><a href="https://win-info.techidaily.com/access-treehouse-learning-content-now-no-charge-direct-online-download/"><u>Access Treehouse Learning Content Now - No Charge, Direct Online Download!</u></a></li>
-<li><a href="https://win-info.techidaily.com/alternate-vidtomp3-solutions-converting-videos-into-mp3-files-on-macos-and-windows/"><u>Alternate VidToMP3 Solutions: Converting Videos Into MP3 Files on macOS & Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-amd-radeon-r9-driver-challenges-in-win11/"><u>Conquering AMD Radeon R9 Driver Challenges in Win11</u></a></li>
-<li><a href="https://article-files.techidaily.com/driving-growth-with-metaverse-marketing-excellence/"><u>Driving Growth with Metaverse Marketing Excellence</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lullabies-on-a-screen-analysis-of-story-tapes-for-sleep/"><u>Lullabies on a Screen Analysis of Story Tapes for Sleep</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/protecting-previewed-photos-within-your-microsoft-word-documents/"><u>Protecting Previewed Photos Within Your Microsoft Word Documents</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-recording-best-practices-for-iphoneipad-podcasts/"><u>2024 Approved From Concept to Recording Best Practices for iPhone/iPad Podcasts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-go-live-on-tiktok-on-computer/"><u>2024 Approved How to Go Live On TikTok On Computer</u></a></li>
+<li><a href="https://win-info.techidaily.com/adapting-to-a-hybrid-future-microsoft-launches-innovative-productivity-gadgets/"><u>Adapting to a Hybrid Future: Microsoft Launches Innovative Productivity Gadgets</u></a></li>
+<li><a href="https://win-info.techidaily.com/building-a-tailored-copilot-gpt-just-for-you-discover-the-process/"><u>Building a Tailored Copilot GPT Just for You – Discover the Process!</u></a></li>
+<li><a href="https://win-info.techidaily.com/celebrate-wayday-2022-with-savings-shop-our-top-pick-in-standing-desks-for-just-329-at-zdnet/"><u>Celebrate WayDay 2022 with Savings: Shop Our Top Pick in Standing Desks for Just $329 at ZDNet!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/delving-into-huawei-p10s-app-ecosystem-and-updates/"><u>Delving Into Huawei P10’s App Ecosystem and Updates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-your-hidden-wi-fi-passwords-quickly-top-3-methods-for-mac-users/"><u>Discover Your Hidden Wi-Fi Passwords Quickly: Top 3 Methods for Mac Users</u></a></li>
+<li><a href="https://win-info.techidaily.com/expert-tips-for-leveraging-speech-recognition-in-windows-11-featured-on-zdnet/"><u>Expert Tips for Leveraging Speech Recognition in Windows 11 | Featured on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-a-steam-deck-showdown/"><u>Gaming on the Go: A Steam Deck Showdown</u></a></li>
+<li><a href="https://win-info.techidaily.com/grab-microsoft-office-at-no-cost-today-with-these-expert-strategies-by-zdnet/"><u>Grab Microsoft Office at No Cost Today with These Expert Strategies by ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-11-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 11 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-photo-recovery-tools-to-restore-corrupted-pictures/"><u>Leading Photo Recovery Tools to Restore Corrupted Pictures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-a60s-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel A60s Screen | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/revive-your-aging-pc-with-these-cost-free-tricks-before-upgrading-to-windows-10-zdnet/"><u>Revive Your Aging PC with These Cost-Free Tricks Before Upgrading to Windows 10 - ZDNet</u></a></li>
+<li><a href="https://win-info.techidaily.com/simplifying-the-complexity-how-microsofts-flawed-ai-was-cracked-with-minimal-skill-discovered-by-zdnet/"><u>Simplifying the Complexity: How Microsoft’s Flawed AI Was Cracked with Minimal Skill | Discovered by ZDNET</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-debatable-strategy-microsoft-offers-to-supervisors-according-to-zdnet-a-closer-look-at-the-unpopularity-among-executives/"><u>The Debatable Strategy Microsoft Offers to Supervisors According to ZDNet – A Closer Look at the Unpopularity Among Executives</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-tech-picks-of-2024-apple-vs-dell-and-others-in-the-ultimate-zdnet-review/"><u>Top Tech Picks of 2024: Apple Vs. Dell & Others in the Ultimate ZDNet Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-a-computer-that-wont-start-up/"><u>Troubleshooting Steps: Fixing a Computer That Won't Start Up</u></a></li>
 </ul></div>
 
