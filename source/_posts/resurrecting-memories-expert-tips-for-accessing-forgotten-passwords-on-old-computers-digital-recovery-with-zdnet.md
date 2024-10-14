@@ -1,7 +1,7 @@
 ---
 title: "Resurrecting Memories: Expert Tips for Accessing Forgotten Passwords on Old Computers | Digital Recovery with ZDNet"
-date: 2024-10-05T16:57:33.691Z
-updated: 2024-10-08T16:59:56.847Z
+date: 2024-10-12T11:17:14.236Z
+updated: 2024-10-13T23:16:57.399Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -45,13 +45,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -69,10 +62,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -80,6 +73,19 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -98,18 +104,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,22 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-5-groundbreaking-advice-points-from-successful-marketers-online/"><u>[New] 5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streamlining-your-iphone-memo-experience-for-2024/"><u>[Updated] Streamlining Your iPhone Memo Experience for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-tailored-approach-boosting-fans-via-page-ranking-for-2024/"><u>[Updated] Tailored Approach Boosting Fans via Page Ranking for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/1726227517724-3gpp3gp-movavi/"><u>免費在線3GPP到3GP文件轉換服務-Movavi的高效解決方案</u></a></li>
-<li><a href="https://win-info.techidaily.com/mpeg-m4r-movavi/"><u>線上無限制隨時間改變 MPEG 成為 M4R - Movavi 影片格式轉換器</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blending-words-with-pictures-adding-text-to-images-windowsmac-for-2024/"><u>Blending Words with Pictures Adding Text to Images, Windows/Mac for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/conversion-avi-a-mp4-top-5-metodos-para-optimizar-tu-dispositivo-mac/"><u>Conversión AVI a MP4: Top 5 Métodos Para Optimizar Tu Dispositivo Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-11-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 11</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-secrets-to-joining-friends-tiktok-live-events/"><u>In 2024, Secrets to Joining Friends' TikTok Live Events</u></a></li>
-<li><a href="https://fox-info.techidaily.com/incredible-virtual-films-to-explore-for-2024/"><u>Incredible Virtual Films to Explore for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/les-10-outils-gratuits-les-plus-performants-pour-automatiser-le-completion-de-formulaires-pdf-sous-windows-and-macos/"><u>Les 10 Outils Gratuits Les Plus Performants Pour Automatiser Le Complétion De Formulaires PDF Sous Windows & macOS</u></a></li>
-<li><a href="https://win-info.techidaily.com/meet-carrie-marshall-of-movavi-expert-portrait-and-wedding-photography-services/"><u>Meet Carrie Marshall of Movavi: Expert Portrait and Wedding Photography Services</u></a></li>
-<li><a href="https://win-info.techidaily.com/metodo-rapido-y-gratuito-para-convertir-musica-wma-a-mp3-con-el-servicio-web-de-convertidor-movavi/"><u>Método Rápido Y Gratuito Para Convertir Música WMA a MP3 Con El Servicio Web De Convertidor Movavi</u></a></li>
-<li><a href="https://win-info.techidaily.com/passos-faceis-para-fazer-cuts-no-adobe-after-effects-tutoriais-completos/"><u>Passos Fáceis Para Fazer Cuts No Adobe After Effects - Tutoriais Completos</u></a></li>
-<li><a href="https://win-info.techidaily.com/portfolio-of-ophelie-bellevitas-captivating-images-on-movavi-platform/"><u>Portfolio of Ophélie Bellevita's Captivating Images on Movavi Platform</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-tp-link-deco-p9-the-ultimate-in-user-friendly-wi-fi-mesh-solutions/"><u>Unpacking the TP-Link Deco P9: The Ultimate in User-Friendly Wi-Fi Mesh Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-thumbnail-size-how-to-make-a-thumbnail-for-youtube/"><u>[New] Best YouTube Thumbnail Size How to Make a Thumbnail for YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clear-up-zoom-audio-troubleshoot-distortion-immediately/"><u>[New] Clear Up Zoom Audio Troubleshoot Distortion Immediately</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easy-onboarding-for-webinar-logging-in-microsoft-operating-systems/"><u>[New] Easy Onboarding for Webinar Logging in Microsoft Operating Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860426776-new-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[New] Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-effortless-crossposting-youtube-links-to-ig-stories/"><u>[Updated] Effortless Crossposting YouTube Links to IG Stories</u></a></li>
+<li><a href="https://win-info.techidaily.com/1-best-alternatives-to-udemy-top-5-high-quality-online-learning-platforms/"><u>1. Best Alternatives to Udemy: Top 5 High-Quality Online Learning Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-biz-vr-innovations-new-frontiers-in-virtual-workspaces/"><u>2024 Approved Biz-VR Innovations New Frontiers in Virtual Workspaces</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-picks-the-best-15-antivirus-programs-available-for-free/"><u>Explore Our Picks: The Best 15 Antivirus Programs Available for Free</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-check-for-flip-builders-official-mark-on-your-recently-acquired-output-publications/"><u>How to Check for Flip Builder’s Official Mark on Your Recently Acquired Output Publications</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-create-a-flash-flipping-book-from-individual-web-pages-using-flipbuilder/"><u>How to Create a Flash Flipping Book From Individual Web Pages Using FlipBuilder</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-enhance-your-output-flipbooks-using-multiple-control-options-a-guide-on-flipbuildercom/"><u>How to Enhance Your Output Flipbooks Using Multiple Control Options - A Guide on FlipBuilder.com</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-set-up-easy-page-printing-functionality-in-flipbooks-with-flipbuilder/"><u>How to Set Up Easy Page Printing Functionality in Flipbooks with FlipBuilder</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-visionary-video-conclave/"><u>In 2024, The Visionary Video Conclave</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>In 2024, Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
+<li><a href="https://win-info.techidaily.com/maximizing-reach-a-step-by-careful-guide-to-sharing-ebooks-on-the-web-via-flipbuildercom/"><u>Maximizing Reach: A Step-by-Careful Guide to Sharing Ebooks on the Web via FlipBuilder.com</u></a></li>
+<li><a href="https://win-info.techidaily.com/transform-your-professional-documents-into-gorgeous-hd-visuals-with-microsoft-word-and-more-using-flipbuilders-free-tool/"><u>Transform Your Professional Documents Into Gorgeous HD Visuals with Microsoft Word & More Using FlipBuilder's Free Tool</u></a></li>
+<li><a href="https://win-info.techidaily.com/zero-cost-digital-book-creator-seamless-conversion-of-text-files-into-pdfs/"><u>Zero Cost Digital Book Creator - Seamless Conversion of Text Files Into PDFs</u></a></li>
 </ul></div>
 

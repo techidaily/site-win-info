@@ -1,7 +1,7 @@
 ---
 title: Microsoft's $50M Strategic Investment Boosts LanzaJet’s Green Aviation Fuels for Eco-Friendly Data Centers
-date: 2024-10-06T16:38:32.647Z
-updated: 2024-10-08T16:02:28.491Z
+date: 2024-10-08T00:50:24.948Z
+updated: 2024-10-13T19:32:41.346Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-join-the-jocular-joy-the-greatest-instagram-meme-gatherings/"><u>[Updated] 2024 Approved Join the Jocular Joy The Greatest Instagram Meme Gatherings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-obs-mastery-5-edits-that-will-elevate-your-work/"><u>[Updated] In 2024, OBS Mastery 5 Edits That Will Elevate Your Work</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-10-free-harmonies-for-deep-calm-meditation-sessions/"><u>[Updated] Top 10 Free Harmonies for Deep, Calm Meditation Sessions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-transformation-software-spectrashift-series/"><u>2024 Approved Leading Transformation Software SpectraShift Series</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlocking-the-power-of-social-medias-fb-covers/"><u>2024 Approved Unlocking the Power of Social Media's FB Covers</u></a></li>
-<li><a href="https://win-info.techidaily.com/breaking-barriers-for-chromebook-users-access-full-windows-app-suite-with-latest-joint-venture-zdnet/"><u>Breaking Barriers for Chromebook Users: Access Full Windows App Suite with Latest Joint Venture | ZDNET</u></a></li>
-<li><a href="https://win-info.techidaily.com/clarifying-the-confusion-top-5-errors-microsoft-loyalists-make-about-apples-operating-system/"><u>Clarifying the Confusion: Top 5 Errors Microsoft Loyalists Make About Apple's Operating System</u></a></li>
-<li><a href="https://win-info.techidaily.com/debloating-windows-why-it-fails-and-better-alternatives-explored-techwise/"><u>Debloating Windows: Why It Fails and Better Alternatives Explored | TechWise</u></a></li>
-<li><a href="https://extra-information.techidaily.com/funimate-essentials-for-the-avid-gamer/"><u>Funimate Essentials for the Avid Gamer</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-upscale-your-old-videos-with-madvr-for-windows/"><u>How to Upscale Your Old Videos With MadVR for Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-streamlining-your-video-creation-ootd-on-a-mac/"><u>In 2024, Streamlining Your Video Creation OOTD on a Mac</u></a></li>
-<li><a href="https://win-info.techidaily.com/mastering-windows-quick-assist-a-superior-alternative-to-remote-desktop-for-effective-tech-support/"><u>Mastering Windows Quick Assist: A Superior Alternative to Remote Desktop for Effective Tech Support</u></a></li>
-<li><a href="https://win-info.techidaily.com/resurrecting-memories-expert-tips-for-accessing-forgotten-passwords-on-old-computers-digital-recovery-with-zdnet/"><u>Resurrecting Memories: Expert Tips for Accessing Forgotten Passwords on Old Computers | Digital Recovery with ZDNet</u></a></li>
-<li><a href="https://win-info.techidaily.com/secure-your-system-with-these-simple-steps-building-a-winning-windows-recovery-drive/"><u>Secure Your System with These Simple Steps: Building a Winning Windows Recovery Drive</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/teaching-troubleshooting-tactics-for-blank-displays/"><u>Teaching Troubleshooting Tactics for Blank Displays</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-game-changing-arrival-of-new-apps-for-windows-on-arm-systems/"><u>The Game-Changing Arrival of New Apps for Windows on Arm Systems</u></a></li>
-<li><a href="https://win-info.techidaily.com/to-embrace-or-not-to-embrace-android-on-windows-11-a-comprehensive-guide-by-zdnet/"><u>To Embrace or Not to Embrace Android on Windows 11 - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-info.techidaily.com/transform-your-windows-11-into-a-windows-10-lovers-dream-expert-advice-from-zdnet/"><u>Transform Your Windows 11 Into a Windows 10 Lover's Dream - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uild-your-wealth-on-youtube-a-guide-to-creating-content-without-ads/"><u>[New] Build Your Wealth on YouTube A Guide to Creating Content Without Ads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-boost-creativity-and-production-in-movies-xp-software-for-2024/"><u>[Updated] Boost Creativity and Production in Movies XP Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-on-line-aid-sources-for-flawless-visual-text/"><u>[Updated] The Ultimate List of On-Line Aid Sources for Flawless Visual Text</u></a></li>
+<li><a href="https://win-info.techidaily.com/1-how-to-delete-selected-text-and-remove-highlights-using-emeditor-a-comprehensive-guide/"><u>1. How to Delete Selected Text and Remove Highlights Using EmEditor - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/1-mastering-screen-captures-on-your-htc-one-expert-techniques/"><u>1. Mastering Screen Captures on Your HTC One: Expert Techniques</u></a></li>
+<li><a href="https://win-info.techidaily.com/2-seamless-continuation-in-text-editing-with-emeditor-tips-for-restarting-nr-on-an-active-file/"><u>2. Seamless Continuation in Text Editing with EmEditor - Tips for Restarting 'Nr' On an Active File</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplified-process-for-name-change-in-google-meet-laptopmobile/"><u>2024 Approved Simplified Process for Name Change in Google Meet (Laptop/Mobile)</u></a></li>
+<li><a href="https://win-info.techidaily.com/best-6-mobile-apps-for-quick-and-affordable-passport-pictures-perfect-for-iphone-and-android-users/"><u>Best 6 Mobile Apps for Quick and Affordable Passport Pictures: Perfect for iPhone & Android Users</u></a></li>
+<li><a href="https://win-info.techidaily.com/creating-your-first-macro-with-emeditor-tips-and-tricks-for-text-editing-automation/"><u>Creating Your First Macro with EmEditor: Tips and Tricks for Text Editing Automation</u></a></li>
+<li><a href="https://win-info.techidaily.com/cutting-edge-strategies-for-captivating-product-photos-on-android-and-ios-devices/"><u>Cutting-Edge Strategies for Captivating Product Photos on Android and iOS Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-video-resolution-achieve-peak-quality-with-winxvideo-ai-tools/"><u>Elevate Video Resolution: Achieve Peak Quality with Winxvideo AI Tools</u></a></li>
+<li><a href="https://win-info.techidaily.com/enhance-your-editing-with-emeditor-exploring-the-clipboard-monitor-capability/"><u>Enhance Your Editing with EmEditor - Exploring the Clipboard Monitor Capability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gpu-not-detected-by-cyberpunk-2077-heres-the-solution-for-windows-10-users/"><u>GPU Not Detected by Cyberpunk 2077? Here's the Solution for Windows 10 Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-reno-10-proplus-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo Reno 10 Pro+ 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-cutting-edge-strategies-for-efficient-speech-translation-with-google/"><u>In 2024, Cutting Edge Strategies for Efficient Speech Translation with Google</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reconnect-with-missing-names-a-step-by-step-solution-for-iphone-contact-issues/"><u>Reconnect with Missing Names: A Step-by-Step Solution for iPhone Contact Issues</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-essential-guide-find-the-ideal-video-logo-replacement-tool-among-these-top-picks/"><u>The Essential Guide: Find the Ideal Video Logo Replacement Tool Among These Top Picks!</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-5-methods-to-transform-high-quality-pdf-files-into-png-images-on-windows-11/"><u>Top 5 Methods to Transform High-Quality PDF Files Into PNG Images on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unified-video-ventures-selecting-an-mcn-for-2024/"><u>Unified Video Ventures Selecting an MCN for 2024</u></a></li>
 </ul></div>
 

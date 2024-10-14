@@ -1,7 +1,7 @@
 ---
 title: "Discover the Power of AI with Free Trial: Why Start Using Copilot Pro Today - Insights From ZDNet"
-date: 2024-10-01T16:53:43.616Z
-updated: 2024-10-08T17:09:25.736Z
+date: 2024-10-06T17:37:55.157Z
+updated: 2024-10-14T04:16:59.826Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-jpegpng-to-pdf-on-iphone-step-by-step-approach/"><u>[Updated] JPEG/PNG to PDF on iPhone - Step-by-Step Approach</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ace-your-setup-elite-gadget-picks-of-computer-visualizers/"><u>Ace Your Setup: Elite Gadget Picks of Computer Visualizers</u></a></li>
-<li><a href="https://win-info.techidaily.com/bilddateikonverter-nef-in-bmp-frei-herunterladen-bei-movavi-schnelle-und-einfache-online-umwandlung/"><u>Bilddateikonverter NEF in BMP Frei Herunterladen Bei Movavi - Schnelle Und Einfache Online-Umwandlung</u></a></li>
-<li><a href="https://win-info.techidaily.com/descargar-la-herramienta-para-conversion-de-archivos-raw-a-linea-gratuita-de-moovavi/"><u>Descargar La Herramienta Para Conversión De Archivos RAW a Línea Gratuita De Moovavi</u></a></li>
-<li><a href="https://win-info.techidaily.com/essai-de-comprehension-des-differences-cles-entre-tiff-et-jpeg-pour-la-photographie-numerique-un-guide-detaille/"><u>Essai De Compréhension Des Différences Clés Entre TIFF Et JPEG Pour La Photographie Numérique : Un Guide Détaillé.</u></a></li>
-<li><a href="https://win-info.techidaily.com/exploring-the-top-competing-technologies-that-challenge-conventional-looms-ranking-and-reviews/"><u>Exploring the Top Competing Technologies That Challenge Conventional Looms: Ranking & Reviews</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/food-for-the-followers-top-tiktok-cuisine-craze/"><u>Food for the Followers Top TikTok Cuisine Craze</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100a-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100A Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/i-migliori-11-programmi-gratuiti-per-ritaglio-video-nel-2024-la-tua-guida-completa/"><u>I Migliori 11 Programmi Gratuiti per Ritaglio Video Nel 2024: La Tua Guida Completa</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-v30-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V30 Pro Unlock Without Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-moto-g24-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola Moto G24 to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-unmarred-photography-collections-purchase/"><u>Mastering Unmarred Photography Collections Purchase</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-productivity-3-insider-tips-to-integrate-chatgpt-into-excel-workflows/"><u>Maximize Productivity: 3 Insider Tips to Integrate ChatGPT Into Excel Workflows</u></a></li>
-<li><a href="https://win-info.techidaily.com/movavi-yerlesteci-surprizun-altinda-video-yapma-programi-yazilimi-kolay-calarak-teknikleri/"><u>Movavi Yerleşteci Sürpriz'un Altında | Video Yapma Programı Yazılımı Kolay Çalarak Teknikleri</u></a></li>
-<li><a href="https://win-info.techidaily.com/trasforma-filetti-flv-a-formato-mp4-online-e-gratuito-con-convertitore-di-movavi/"><u>Trasforma Filetti FLV a Formato MP4 Online E Gratuito Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-honoring-creativity-ultimate-otu-collection/"><u>2024 Approved Honoring Creativity Ultimate OTU Collection</u></a></li>
+<li><a href="https://win-info.techidaily.com/opus-vidstream-opus/"><u>網路隨時可得 OPUS 電影直送 - VidStream OPUS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-gt-5-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme GT 5 Pro</u></a></li>
+<li><a href="https://win-info.techidaily.com/come-convertire-il-formato-wmv-nel-piu-comune-mp3-senza-costi-su-internet-utilizzando-le-soluzioni-di-movavi/"><u>Come Convertire Il Formato WMV Nel Più Comune MP3 Senza Costi Su Internet Utilizzando Le Soluzioni Di Movavi</u></a></li>
+<li><a href="https://win-info.techidaily.com/convertidor-mp3-a-m4a-sin-costo-herramienta-rapida-y-facil-descubra-el-movavi/"><u>Convertidor MP3 a M4A Sin Costo: Herramienta Rápida Y Fácil, Descubra El Movavi</u></a></li>
+<li><a href="https://win-info.techidaily.com/discover-the-best-slideshow-tools-of-2024-a-selection-of-top-free-options/"><u>Discover the Best Slideshow Tools of 2024 – A Selection of Top FREE Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-timer-hero-3-essential-fcpx-steps-for-2024/"><u>From Zero to Timer Hero 3 Essential FCPX Steps for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/guia-gratuita-para-cambiar-archivos-wmv-a-mp4-en-linea-con-convertidor-de-movavi/"><u>Guía Gratuita Para Cambiar Archivos WMV a MP4 en Línea Con Convertidor De Movavi</u></a></li>
+<li><a href="https://win-info.techidaily.com/i-migliori-siti-per-il-download-gratuito-dei-tuoi-anime-favoriti-in-italia-classifica-2024/"><u>I Migliori Siti per Il Download Gratuito Dei Tuoi Anime Favoriti in Italia - Classifica 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-best-iphone-camera-aids-for-2024/"><u>In-Depth Look Best iPhone Camera Aids for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-filmora-on-a-budget-how-to-get-it-for-free-seriously/"><u>New 2024 Approved Filmora on a Budget How to Get It for Free (Seriously!)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-reinstallation-of-windows-1011-bluetooth-driver/"><u>Step-by-Step Reinstallation of Windows 10/11 Bluetooth Driver</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-g54-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola G54 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-info.techidaily.com/transformar-imagenes-jpeg-en-tiff-gratis-con-movavi-guia-paso-a-paso/"><u>Transformar Imágenes JPEG en TIFF Gratis Con Movavi - Guía Paso a Paso</u></a></li>
+<li><a href="https://win-info.techidaily.com/web-based-byster-mp4/"><u>Web-Based Byster MP4 영상 자동 전환 - 무세</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/hd-dvd-h265-mp4/"><u>빠른 HD 크리에이터 DVD 확장 - H.265 MP4 형식으로 원형 영상을 스캔</u></a></li>
 </ul></div>
 

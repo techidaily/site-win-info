@@ -1,7 +1,7 @@
 ---
 title: "Adapting to a Hybrid Future: Microsoft Launches Innovative Productivity Gadgets"
-date: 2024-10-04T16:03:58.104Z
-updated: 2024-10-08T16:08:58.984Z
+date: 2024-10-07T04:54:02.285Z
+updated: 2024-10-13T16:23:51.580Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-beginners-guide-to-ps4-game-broadcasting-with-obs/"><u>[Updated] Beginner's Guide to PS4 Game Broadcasting with OBS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-oppo-find-x7-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo Find X7 Ultra Phone When You Forget the Password</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-motorola-moto-g24-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Moto G24 Lock Screen Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y77t-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y77t Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-quick-youtube-comment-removal-techniques/"><u>In 2024, Mastering Quick YouTube Comment Removal Techniques</u></a></li>
-<li><a href="https://win-info.techidaily.com/microsofts-surprising-discovery-true-employee-happiness-unveiled/"><u>Microsoft's Surprising Discovery: True Employee Happiness Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-and-twitch-synergy-for-gamers/"><u>Prime and Twitch Synergy for Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-permission-levels-for-non-administrative-windows-users/"><u>Tailoring Permission Levels for Non-Administrative Windows Users</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-revelation-from-microsoft-on-achieving-authentic-joy-in-the-workplace-a-shocking-find-by-zdnet/"><u>The Revelation From Microsoft on Achieving Authentic Joy in the Workplace - A Shocking Find by ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-the-cannot-launch-borderlands-3-expert-fixes-1-11/"><u>Troubleshoot the 'Cannot Launch Borderlands 3': Expert Fixes #1-11</u></a></li>
-<li><a href="https://win-info.techidaily.com/upcoming-fees-microsoft-announces-charge-for-windows-10-update-subscriptions-in-the-new-year-what-you-need-to-know/"><u>Upcoming Fees: Microsoft Announces Charge for Windows 10 Update Subscriptions in the New Year - What You Need to Know</u></a></li>
-<li><a href="https://win-info.techidaily.com/upcoming-revolutionary-windows-on-arm-applications-why-you-cant-ignore-them/"><u>Upcoming Revolutionary Windows on ARM Applications: Why You Can't Ignore Them!</u></a></li>
-<li><a href="https://win-info.techidaily.com/upgrading-from-windows-home-to-professional-version-tips-and-reasons-zdnet/"><u>Upgrading From Windows Home to Professional Version: Tips & Reasons - ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-sensation-skills-making-a-buzz-on-your-profiles-wall-for-2024/"><u>[New] Social Sensation Skills Making a Buzz on Your Profile's Wall for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-peak-health-integrating-top-7-ai-enhancements/"><u>Achieve Peak Health: Integrating Top 7 AI Enhancements</u></a></li>
+<li><a href="https://win-info.techidaily.com/experience-next-gen-display-with-the-acer-swift-edge-reviewing-the-worlds-leanest-4k-oled-notebook-on-zdnet/"><u>Experience Next-Gen Display with the Acer Swift Edge: Reviewing the World's Leanest 4K OLED Notebook on ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-free-virtual-music-pulse-analyzers/"><u>In 2024, Explore Free, Virtual Music Pulse Analyzers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-15-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 15 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>In 2024, Legendary Lens Showdown SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ry-in-motion-selecting-top-video-editors/"><u>Mastery in Motion Selecting Top Video Editors</u></a></li>
+<li><a href="https://win-info.techidaily.com/simple-methods-for-deleting-iphone-reminder-notifications/"><u>Simple Methods for Deleting iPhone Reminder Notifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-why-cant-you-watch-your-desired-show-on-netflix-at-moment/"><u>Solving the Issue: Why Can't You Watch Your Desired Show on Netflix at Moment?</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-importing-your-bank-statements-for-smooth-quickbooks-management/"><u>Step-by-Step Guide: Importing Your Bank Statements for Smooth QuickBooks Management</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-malfunctions-in-the-game-resident-evil-village/"><u>Troubleshooting Audio Malfunctions in the Game Resident Evil Village</u></a></li>
+<li><a href="https://win-info.techidaily.com/unlocking-legacy-systems-a-step-by-step-guide-to-installing-windows-11-on-outdated-pcs-against-all-odds-as-demonstrated-by-tech-savvy-readers-zdnet/"><u>Unlocking Legacy Systems: A Step-by-Step Guide to Installing Windows 11 on Outdated PCs Against All Odds, as Demonstrated by Tech Savvy Readers | ZDNET</u></a></li>
+<li><a href="https://win-info.techidaily.com/upgrade-mastery-shifting-from-windows-10-to-windows-11-on-incompatible-systems-expert-tips-and-tricks/"><u>Upgrade Mastery: Shifting From Windows 10 to Windows 11 on Incompatible Systems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-info.techidaily.com/upgrade-your-windows-security-the-ultimate-guide-to-passcode-free-logins-for-windows-10-and-11-insights-by-zdnet/"><u>Upgrade Your Windows Security: The Ultimate Guide to Passcode-Free Logins for Windows 10 & 11 | Insights by ZDNET</u></a></li>
 </ul></div>
 

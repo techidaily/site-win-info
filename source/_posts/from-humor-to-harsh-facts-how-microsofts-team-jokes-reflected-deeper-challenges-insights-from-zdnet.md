@@ -1,7 +1,7 @@
 ---
 title: "From Humor to Harsh Facts: How Microsoft’s Team Jokes Reflected Deeper Challenges - Insights From ZDNet"
-date: 2024-10-02T17:01:03.830Z
-updated: 2024-10-08T16:38:31.957Z
+date: 2024-10-13T01:52:08.685Z
+updated: 2024-10-14T05:31:33.748Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -90,13 +97,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,21 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-youtube-videos-proper-lighting-methods/"><u>[New] 2024 Approved Enhancing YouTube Videos Proper Lighting Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-nuances-of-color-grading-for-gopro-editors/"><u>[New] Navigating the Nuances of Color Grading for GoPro Editors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-inshot-film-splits/"><u>2024 Approved Expert Tips on Inshot Film Splits</u></a></li>
-<li><a href="https://win-info.techidaily.com/adapting-to-a-hybrid-future-microsoft-launches-innovative-productivity-gadgets/"><u>Adapting to a Hybrid Future: Microsoft Launches Innovative Productivity Gadgets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-sending-your-friend-the-perfect-steam-wallet-present/"><u>Guide: Sending Your Friend the Perfect Steam Wallet Present</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-tailoring-video-resolution-and-size-a-must-know-guide-to-youtube-uploads/"><u>In 2024, Tailoring Video Resolution and Size A Must Know Guide to YouTube Uploads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-slow-motion-footage-gopro-hero-10-tips-for-2024/"><u>Mastering Slow-Motion Footage GoPro Hero 10 Tips for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/microsofts-surprising-discovery-true-employee-happiness-unveiled/"><u>Microsoft's Surprising Discovery: True Employee Happiness Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-windows-11-resolution-settings/"><u>Optimize Windows 11 Resolution Settings</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-out-gameplay-overcoming-delays-in-anthem/"><u>Smooth Out Gameplay: Overcoming Delays in Anthem</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-revelation-from-microsoft-on-achieving-authentic-joy-in-the-workplace-a-shocking-find-by-zdnet/"><u>The Revelation From Microsoft on Achieving Authentic Joy in the Workplace - A Shocking Find by ZDNet</u></a></li>
-<li><a href="https://win-info.techidaily.com/top-tech-picks-of-2024-apple-vs-dell-and-others-in-the-ultimate-zdnet-review/"><u>Top Tech Picks of 2024: Apple Vs. Dell & Others in the Ultimate ZDNet Review</u></a></li>
-<li><a href="https://win-info.techidaily.com/upcoming-fees-microsoft-announces-charge-for-windows-10-update-subscriptions-in-the-new-year-what-you-need-to-know/"><u>Upcoming Fees: Microsoft Announces Charge for Windows 10 Update Subscriptions in the New Year - What You Need to Know</u></a></li>
-<li><a href="https://win-info.techidaily.com/upcoming-revolutionary-windows-on-arm-applications-why-you-cant-ignore-them/"><u>Upcoming Revolutionary Windows on ARM Applications: Why You Can't Ignore Them!</u></a></li>
-<li><a href="https://win-info.techidaily.com/upgrading-from-windows-home-to-professional-version-tips-and-reasons-zdnet/"><u>Upgrading From Windows Home to Professional Version: Tips & Reasons - ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-seamless-imovie-files-to-vimeo-integration-tips/"><u>[New] In 2024, Seamless iMovie Files to Vimeo Integration Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rime-editing-choosing-the-best-for-youtube-for-2024/"><u>[New] Prime Editing Choosing the Best For YouTube for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/best-techniques-for-capturing-screen-shots-during-skype-calls/"><u>Best Techniques for Capturing Screen Shots During Skype Calls</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mg2520-driver-downloads-and-firmware-updates-for-optimal-performance-on-windows-systems/"><u>Canon MG2520 Driver Downloads & Firmware Updates for Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://win-info.techidaily.com/comprehensive-user-manual-mastering-apowersofts-mac-screen-capture-software/"><u>Comprehensive User Manual: Mastering Apowersoft's Mac Screen Capture Software</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wi-fi-connectivity-fixing-incomplete-network-commands-on-pc/"><u>Enhancing Wi-Fi Connectivity: Fixing Incomplete Network Commands on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-green-screens-for-cinematic-artists/"><u>Free Green Screens for Cinematic Artists</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-safeguard-your-documents-creating-password-encrypted-pdfs-made-easy/"><u>How to Safeguard Your Documents: Creating Password-Encrypted PDFs Made Easy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A05?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-complete-insight-gopro-silver-hero4-detailed-assessment/"><u>In 2024, Complete Insight GoPro Silver Hero4 Detailed Assessment</u></a></li>
+<li><a href="https://win-info.techidaily.com/seamless-guide-mastering-the-art-of-adding-soundtracks-to-your-videos/"><u>Seamless Guide: Mastering the Art of Adding Soundtracks to Your Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
+<li><a href="https://win-info.techidaily.com/ultimate-guide-to-the-most-effective-photo-editing-apps-for-blurring-or-erasing-human-figures-on-smartphones/"><u>Ultimate Guide to the Most Effective Photo Editing Apps for Blurring or Erasing Human Figures on Smartphones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Raises the Repairability Game with New Laptops, Leaving iFixit Impressed and Rivals Like Apple Under Pressure | ZDNET
-date: 2024-10-07T17:07:44.108Z
-updated: 2024-10-08T17:12:29.198Z
+date: 2024-10-08T11:32:16.045Z
+updated: 2024-10-14T12:36:06.434Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premier-gopro-hero5-black-batteries-with-certified-chargers/"><u>[New] Premier GoPro Hero5 Black Batteries with Certified Chargers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-pinnacle-of-participation-events-post-vidcon/"><u>2024 Approved Pinnacle of Participation Events Post-VidCon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-amateur-to-artist-top-8-beginner-camera-selections-for-2024/"><u>From Amateur to Artist Top 8 Beginner Camera Selections for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-mematic-for-efficient-note-taking-for-2024/"><u>Harness Mematic for Efficient Note-Taking for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-end-broadcast-decision-pmix-vs-wirecast-for-professionals-for-2024/"><u>High-End Broadcast Decision PMix Vs. Wirecast for Professionals for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-check-for-flip-builders-official-mark-on-your-recently-acquired-output-publications/"><u>How to Check for Flip Builder’s Official Mark on Your Recently Acquired Output Publications</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-create-a-flash-flipping-book-from-individual-web-pages-using-flipbuilder/"><u>How to Create a Flash Flipping Book From Individual Web Pages Using FlipBuilder</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-enhance-your-output-flipbooks-using-multiple-control-options-a-guide-on-flipbuildercom/"><u>How to Enhance Your Output Flipbooks Using Multiple Control Options - A Guide on FlipBuilder.com</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-set-up-easy-page-printing-functionality-in-flipbooks-with-flipbuilder/"><u>How to Set Up Easy Page Printing Functionality in Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://win-info.techidaily.com/maximizing-reach-a-step-by-careful-guide-to-sharing-ebooks-on-the-web-via-flipbuildercom/"><u>Maximizing Reach: A Step-by-Careful Guide to Sharing Ebooks on the Web via FlipBuilder.com</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-battery-life-savings-activating-energy-saving-mode-on-your-apple-watch-learn-how-and-its-benefits/"><u>Unlock Battery Life Savings: Activating Energy Saving Mode on Your Apple Watch - Learn How and Its Benefits!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-and-laptop-technology-with-toms-it-chronicles/"><u>Unveiling the Latest in PC and Laptop Technology with Tom's IT Chronicles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-getting-to-grips-with-graphic-animation-basics/"><u>[New] 2024 Approved Getting to Grips with Graphic Animation Basics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-step-by-step-methods-for-amassing-tiktok-videos-for-2024/"><u>[New] Step-by-Step Methods for Amassing TikTok Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hunt-for-the-best-screen-bargains-in-202-enjoy-4k-quality-and-game-ready-models/"><u>Hunt for the Best Screen Bargains in 202#: Enjoy 4K Quality & Game-Ready Models</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a34-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A34 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/montage-music-the-top-10-online-compilations-and-direct-links/"><u>Montage Music The Top 10 Online Compilations and Direct Links</u></a></li>
+<li><a href="https://win-info.techidaily.com/mp3-conversion-made-easy-with-internet-radio-recorder/"><u>MP3 Conversion Made Easy with Internet Radio Recorder</u></a></li>
+<li><a href="https://win-info.techidaily.com/resolving-issues-with-downloading-https-video-streams-a-step-by-step-guide/"><u>Resolving Issues with Downloading HTTPS Video Streams: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/secure-your-favorite-vids-from-camwhores-site-with-easy-steps/"><u>Secure Your Favorite Vids From CamWhores Site with Easy Steps</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-downloading-expert-trading-video-lessons-from-pro-traders-club/"><u>Step-by-Step Guide: Downloading Expert Trading Video Lessons From Pro Traders Club</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-instructions-for-downloading-and-viewing-movie-webs-top-picks-in-news-and-reviews/"><u>Step-by-Step Instructions for Downloading and Viewing Movie Web's Top Picks in News & Reviews</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-on-finding-and-downloading-the-entire-captain-america-civil-war-film-as-a-free-mp4-file/"><u>Step-by-Step Tutorial on Finding and Downloading the Entire Captain America: Civil War Film as a Free MP4 File</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-on-securing-hd-hip-hop-dance-footage-in-multiple-video-codecs/"><u>Step-by-Step Tutorial on Securing HD Hip Hop Dance Footage in Multiple Video Codecs</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-accessing-youtube-videos-on-huawei-phones-and-tablets/"><u>Step-by-Step Tutorial: Accessing YouTube Videos on Huawei Phones & Tablets</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-how-to-save-your-favorite-the-daily-show-shows-as-mp4-mp3-avi-and-more/"><u>Step-by-Step Tutorial: How to Save Your Favorite 'The Daily Show' Shows as MP4, MP3, AVI, & More!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlock-advanced-data-insights-the-secrets-in-your-cookiebot-integration/"><u>Unlock Advanced Data Insights: The Secret's in Your Cookiebot Integration</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-is-it-easier-for-a-child-to-learn-a-second-language/"><u>Why Is It Easier For A Child To Learn A Second Language?</u></a></li>
 </ul></div>
 

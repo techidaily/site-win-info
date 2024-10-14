@@ -1,7 +1,7 @@
 ---
 title: "Simplifying the Complexity: How Microsoft’s Flawed AI Was Cracked with Minimal Skill | Discovered by ZDNET"
-date: 2024-10-07T16:38:39.191Z
-updated: 2024-10-08T17:19:55.866Z
+date: 2024-10-11T23:13:35.708Z
+updated: 2024-10-13T21:08:37.808Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[New] 2024 Approved Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guiding-principles-for-speech-conversion-in-google-translate/"><u>2024 Approved Guiding Principles for Speech Conversion in Google Translate</u></a></li>
-<li><a href="https://win-info.techidaily.com/best-techniques-for-capturing-screen-shots-during-skype-calls/"><u>Best Techniques for Capturing Screen Shots During Skype Calls</u></a></li>
-<li><a href="https://win-info.techidaily.com/comprehensive-user-manual-mastering-apowersofts-mac-screen-capture-software/"><u>Comprehensive User Manual: Mastering Apowersoft's Mac Screen Capture Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/destiny-2-compatible-with-pc-how-to-fix-the-launch-error-quickly/"><u>Destiny 2 Compatible with PC? How to Fix the Launch Error Quickly!</u></a></li>
-<li><a href="https://win-info.techidaily.com/experience-next-gen-display-with-the-acer-swift-edge-reviewing-the-worlds-leanest-4k-oled-notebook-on-zdnet/"><u>Experience Next-Gen Display with the Acer Swift Edge: Reviewing the World's Leanest 4K OLED Notebook on ZDNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/exploring-glitches-why-visual-look-up-isnt-working-on-ios-devices/"><u>Exploring Glitches: Why Visual Look Up Isn't Working on iOS Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-8-plus-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 8 Plus Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-a-black-screen-on-discord-during-screen-share-sessions/"><u>How to Fix a Black Screen on Discord During Screen Share Sessions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/psvita/"><u>PSVitaにおけるビデオ再生問題解決法：効果的なトラブルシューティングガイド</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-y28-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Y28 5G</u></a></li>
-<li><a href="https://win-info.techidaily.com/simple-guide-on-capturing-your-ipad-gaming-sessions-seamlessly/"><u>Simple Guide on Capturing Your iPad Gaming Sessions Seamlessly</u></a></li>
-<li><a href="https://win-info.techidaily.com/simple-methods-for-deleting-iphone-reminder-notifications/"><u>Simple Methods for Deleting iPhone Reminder Notifications</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-importing-your-bank-statements-for-smooth-quickbooks-management/"><u>Step-by-Step Guide: Importing Your Bank Statements for Smooth QuickBooks Management</u></a></li>
-<li><a href="https://win-info.techidaily.com/upgrade-mastery-shifting-from-windows-10-to-windows-11-on-incompatible-systems-expert-tips-and-tricks/"><u>Upgrade Mastery: Shifting From Windows 10 to Windows 11 on Incompatible Systems - Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-info.techidaily.com/upgrade-your-windows-security-the-ultimate-guide-to-passcode-free-logins-for-windows-10-and-11-insights-by-zdnet/"><u>Upgrade Your Windows Security: The Ultimate Guide to Passcode-Free Logins for Windows 10 & 11 | Insights by ZDNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-achieve-social-stardom-the-ultimate-list-for-fb-fan-increase/"><u>[New] 2024 Approved Achieve Social Stardom The Ultimate List for FB Fan Increase</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-per-view-payment-potential-for-online-content-creators/"><u>[New] 2024 Approved Per-View Payment Potential for Online Content Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-the-economics-pewdiepies-annual-income/"><u>[Updated] Examining the Economics PewDiePie's Annual Income</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-drivers-for-your-eveo-bluetooth-receivertransmitter-today/"><u>Download the Latest Drivers for Your EVEO Bluetooth Receiver/Transmitter Today</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-charting-the-course-to-youtube-fame-strategic-video-release-frequency/"><u>In 2024, Charting the Course to YouTube Fame Strategic Video Release Frequency</u></a></li>
+<li><a href="https://win-info.techidaily.com/introducing-emeditor-professional-v13-beta-6-enhanced-text-editing-experience/"><u>Introducing EmEditor Professional v13 Beta 6 - Enhanced Text Editing Experience.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-social-media-insights-in-market-research/"><u>Leveraging Social Media Insights in Market Research</u></a></li>
+<li><a href="https://win-info.techidaily.com/line-sorting-feature-in-emeditor-arrange-based-on-line-size-for-improved-readability/"><u>Line Sorting Feature in EmEditor: Arrange Based on Line Size for Improved Readability</u></a></li>
+<li><a href="https://win-info.techidaily.com/overcoming-rendering-challenges-for-ltr-and-rtl-text-during-horizontal-scrolling-in-emeditor/"><u>Overcoming Rendering Challenges for LTR and RTL Text During Horizontal Scrolling in EmEditor</u></a></li>
+<li><a href="https://win-info.techidaily.com/potential-syntax-errors-no-worries-with-emeditor-your-reliable-text-editing-companion/"><u>Potential Syntax Errors? No Worries with EmEditor - Your Reliable Text Editing Companion!</u></a></li>
+<li><a href="https://win-info.techidaily.com/professional-text-editing-software-emeditor-pro-version-900-beta-update/"><u>Professional Text Editing Software - EmEditor Pro Version 9.00 Beta Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-fixing-windows-11s-error-1132-in-zoom-app/"><u>Unraveling and Fixing Windows 11'S Error 1132 in Zoom App</u></a></li>
 </ul></div>
 

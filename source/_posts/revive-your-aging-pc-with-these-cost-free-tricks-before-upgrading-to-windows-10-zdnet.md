@@ -1,7 +1,7 @@
 ---
 title: Revive Your Aging PC with These Cost-Free Tricks Before Upgrading to Windows 10 - ZDNet
-date: 2024-10-07T16:48:06.283Z
-updated: 2024-10-08T16:40:43.106Z
+date: 2024-10-07T04:42:55.726Z
+updated: 2024-10-13T21:28:49.005Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/a-firsthand-look-at-what-sets-the-apple-iphone-n-pro-apart-from-its-competitors/"><u>A Firsthand Look at What Sets the Apple iPhone N Pro Apart From Its Competitors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/crafting-ideal-google-snippet-summaries-without-compulsory-ai-intervention/"><u>Crafting Ideal Google Snippet Summaries without Compulsory AI Intervention</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-infinix-hot-40-pro-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-understanding-modern-motion-perception-technologies/"><u>In 2024, Understanding Modern Motion Perception Technologies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/metodi-piu-ottimi-per-trasformare-video-vob-in-formato-mp4-usando-un-pc-o-servizi-internet-nel-2024/"><u>Metodi Più Ottimi per Trasformare Video VOB in Formato MP4 Usando Un PC O Servizi Internet Nel 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/transform-your-windows-11-into-a-windows-10-lovers-dream-expert-advice-from-zdnet/"><u>Transform Your Windows 11 Into a Windows 10 Lover's Dream - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://win-info.techidaily.com/turn-back-time-with-tech-wizardry-how-enthusiasts-triumphantly-updated-their-classic-pcs-to-windows-11-despite-microsofts-skepticism-insights-from-zdnet-rea241/"><u>Turn Back Time with Tech Wizardry: How Enthusiasts Triumphantly Updated Their Classic PCs to Windows 11, Despite Microsoft’s Skepticism | Insights From ZDNET Readers.</u></a></li>
-<li><a href="https://win-info.techidaily.com/unboxing-and-testing-the-asus-mg28uc-144hz-ultrawide-display-balancing-speed-and-workspace-techradar/"><u>Unboxing and Testing the ASUS MG28UC 144HZ Ultrawide Display: Balancing Speed and Workspace | TechRadar</u></a></li>
-<li><a href="https://win-info.techidaily.com/unlocking-legacy-systems-a-step-by-step-guide-to-installing-windows-11-on-outdated-pcs-against-all-odds-as-demonstrated-by-tech-savvy-readers-zdnet/"><u>Unlocking Legacy Systems: A Step-by-Step Guide to Installing Windows 11 on Outdated PCs Against All Odds, as Demonstrated by Tech Savvy Readers | ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram/"><u>[New] Mastering Multimedia Posts Multiphotograph & Video Uploads on Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-no-delay-scrutinized-top-8-capture-tools-for-2024/"><u>[New] No Delay Scrutinized Top 8 Capture Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023s-best-fb-link-exporters-available-for-free-online-for-2024/"><u>[Updated] 2023'S Best FB Link Exporters - Available for FREE Online for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/1-how-to-delete-selected-text-and-remove-highlights-using-emeditor-a-comprehensive-guide/"><u>1. How to Delete Selected Text and Remove Highlights Using EmEditor - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/2-seamless-continuation-in-text-editing-with-emeditor-tips-for-restarting-nr-on-an-active-file/"><u>2. Seamless Continuation in Text Editing with EmEditor - Tips for Restarting 'Nr' On an Active File</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping/"><u>2024 Approved Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1725285352357-dvd/"><u>家庭用DVDコピーがプロにも扱える！無料、手軽パソコン/スマホ・タブ移行可能</u></a></li>
+<li><a href="https://win-info.techidaily.com/creating-your-first-macro-with-emeditor-tips-and-tricks-for-text-editing-automation/"><u>Creating Your First Macro with EmEditor: Tips and Tricks for Text Editing Automation</u></a></li>
+<li><a href="https://win-info.techidaily.com/cutting-edge-strategies-for-captivating-product-photos-on-android-and-ios-devices/"><u>Cutting-Edge Strategies for Captivating Product Photos on Android and iOS Devices</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-customize-your-chatbot-conversations/"><u>Easy Steps to Customize Your Chatbot Conversations</u></a></li>
+<li><a href="https://win-info.techidaily.com/emeditor-text-editor-fixing-projectsdll-error-and-preventing-application-crashes/"><u>EmEditor Text Editor: Fixing Projects.dll Error and Preventing Application Crashes</u></a></li>
+<li><a href="https://win-info.techidaily.com/enhance-your-editing-with-emeditor-exploring-the-clipboard-monitor-capability/"><u>Enhance Your Editing with EmEditor - Exploring the Clipboard Monitor Capability</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-goodwill-on-american-celebratory-date/"><u>Global Goodwill on American Celebratory Date</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-fitness-journey-with-our-top-picks-for-training-apps/"><u>Revolutionize Your Fitness Journey with Our Top Picks for Training Apps</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-essential-guide-find-the-ideal-video-logo-replacement-tool-among-these-top-picks/"><u>The Essential Guide: Find the Ideal Video Logo Replacement Tool Among These Top Picks!</u></a></li>
 </ul></div>
 
