@@ -1,7 +1,7 @@
 ---
 title: Top 5 Weakest Passwords Used by Over Half of Internet Users
-date: 2024-10-11T00:31:45.130Z
-updated: 2024-10-13T23:37:57.113Z
+date: 2024-10-19T00:47:40.727Z
+updated: 2024-10-20T02:36:08.080Z
 tags:
   - product
   - antivirus
@@ -89,13 +89,6 @@ As you can compare, the list of 2020 and 2019 is exact. And comparing it with th
 
 So, what mistakes are people doing while choosing a password? Let us find out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Most Common Password Mistakes
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
@@ -108,6 +101,13 @@ While it may be a great way to show your love and respect towards your close one
 
 It makes it easy for hackers to crack your password by just knowing a few basic details about you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Using the Same Password Everywhere**
 
 Another common mistake made by most people is using the same password everywhere. In order to stay away from the strain of remembering different passwords for different accounts, the maximum number of people choose to keep a single password for all of their accounts. This practice makes them more vulnerable to cyberattacks like hacking. Also, all your accounts will be accessible to hackers if they get hold of even one account’s password. Avoid such practice and at least keep different passwords for your every social media login.
@@ -116,26 +116,33 @@ Another common mistake made by most people is using the same password everywhere
 
 People remember this. Passwords are meant just for your eyes. They are not for sharing even with your closest person. Besides, it is not always about faith. If the person with whom you have shared your password, have stored it in a system that got hacked, then your password will also get into the hands of the hacker. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Password Management DO’s and DON’Ts
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips to Improve your Password Security
 
 Here are some tips for creating a secured password
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **1\. Use a Robust Password Manager**
 
@@ -148,10 +155,10 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor%5Fauthentication) is a security measure in which users required to authenticate themselves using more than one credentials. For example, the first step of login could be entering your username and password; the second step could be verification by mobile OTP: and the third step could be verification by fingerprint.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Don’t Create Passwords with Dictionary Words**
@@ -175,13 +182,6 @@ A unique password is the one that you only use for one account and do not repeat
 **What are the most common 4 digits passwords?** 
 
 The most common 4 digit passwords are **1234, 1111, and 0000\.** Another popular 4 digit is the combination of birth date and birth month. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -208,18 +208,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-right-move-copyright-validation-before-posting-on-tiktok/"><u>[New] 2024 Approved The Right Move Copyright Validation Before Posting on TikTok</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-podcast-dominance-through-powerful-seo-tactics/"><u>[New] In 2024, Podcast Dominance Through Powerful SEO Tactics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-create-hit-facebook-song-vids-10-edition/"><u>2024 Approved How to Create Hit Facebook Song Vids - #10 Edition</u></a></li>
-<li><a href="https://win-info.techidaily.com/mpeg-m4r-movavi/"><u>線上無限制隨時間改變 MPEG 成為 M4R - Movavi 影片格式轉換器</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-step-by-step-guide-to-transforming-dvd-video-content-into-mp4-on-pc-and-mac-systems-discover-the-best-strategies/"><u>A Step-by-Step Guide to Transforming DVD Video Content Into MP4 on PC and MAC Systems – Discover the Best Strategies!</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/bildfusion-fuhre-mehrere-sicherungskopien-zu-einer-einheit-vereint/"><u>Bildfusion: Führe Mehrere Sicherungskopien Zu Einer Einheit Vereint</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevate-your-videography-top-tier-vimeo-tools-for-2024/"><u>Elevate Your Videography Top-Tier Vimeo Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-your-aoc-monitor-working-perfectly-on-a-windows-10-system/"><u>Getting Your AOC Monitor Working Perfectly on a Windows 10 System</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-unlock-your-youtube-personality-top-6-creator-categories/"><u>In 2024, Unlock Your YouTube Personality Top 6 Creator Categories</u></a></li>
-<li><a href="https://win-info.techidaily.com/les-10-outils-gratuits-les-plus-performants-pour-automatiser-le-completion-de-formulaires-pdf-sous-windows-and-macos/"><u>Les 10 Outils Gratuits Les Plus Performants Pour Automatiser Le Complétion De Formulaires PDF Sous Windows & macOS</u></a></li>
-<li><a href="https://win-info.techidaily.com/meet-carrie-marshall-of-movavi-expert-portrait-and-wedding-photography-services/"><u>Meet Carrie Marshall of Movavi: Expert Portrait and Wedding Photography Services</u></a></li>
-<li><a href="https://win-info.techidaily.com/passos-faceis-para-fazer-cuts-no-adobe-after-effects-tutoriais-completos/"><u>Passos Fáceis Para Fazer Cuts No Adobe After Effects - Tutoriais Completos</u></a></li>
-<li><a href="https://win-info.techidaily.com/portfolio-of-ophelie-bellevitas-captivating-images-on-movavi-platform/"><u>Portfolio of Ophélie Bellevita's Captivating Images on Movavi Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-step-by-step-livestreaming-to-facebook-from-iphonestablets-for-2024/"><u>[New] Step-by-Step Livestreaming to Facebook From iPhones/Tablets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-eye-catching-images-windows-10s-screenshot-feature/"><u>[Updated] Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
+<li><a href="https://win-info.techidaily.com/1-schnell-und-einfach-ssd-wechseln-auf-deinem-pc-anleitung-zum-austausch/"><u>1. Schnell Und Einfach: SSD Wechseln Auf Deinem PC – Anleitung Zum Austausch</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-1187norton-ghostusb/"><u>如何在Windows 11/8/7系统中制作Norton Ghost的可启动USB，步骤分享两种方式</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-80-pro-straight-screen-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 80 Pro Straight Screen Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-twitch-account-security-with-2fa-tips-and-tricks-for-easy-configuration/"><u>Enhance Your Twitch Account Security with 2FA: Tips & Tricks for Easy Configuration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-selecting-best-free-srt-tools-for-2024/"><u>Expert Tips on Selecting Best FREE SRT Tools for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/guida-completa-scelta-del-solitario-e-gratuito-software-clonato-per-windows-11/"><u>Guida Completa: Scelta Del Solitario E Gratuito Software Clonato per Windows 11</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-create-a-system-restore-point-on-windows-11-10-8-or-7-for-easy-recovery/"><u>How to Create a System Restore Point on Windows 11, 10, 8, or 7 for Easy Recovery</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-f15-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy F15 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco M6 Pro 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixed-guide-for-frozen-epic-game-launcher/"><u>Quick Fixed Guide for Frozen Epic Game Launcher</u></a></li>
+<li><a href="https://win-info.techidaily.com/reclaim-lost-files-the-ifind-pro-raid-recovery-suite-safe-and-secure-retrieval-of-raid-015-data/"><u>Reclaim Lost Files: The iFind Pro RAID Recovery Suite - Safe and Secure Retrieval of Raid 0/1/5 Data</u></a></li>
+<li><a href="https://win-info.techidaily.com/securing-multiple-drives-on-windows-11-a-comprehensive-guide/"><u>Securing Multiple Drives on Windows 11 – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-connected-on-the-go-messaging-and-calling-loved-ones-via-iphone-apps-from-your-apple-watch/"><u>Stay Connected on the Go: Messaging & Calling Loved Ones via iPhone Apps From Your Apple Watch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-v30-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo V30 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-info.techidaily.com/vcenter-management-tutorial-how-to-set-upteardown-virtual-machine-registration/"><u>VCenter Management Tutorial: How to Set Up/Teardown Virtual Machine Registration</u></a></li>
+<li><a href="https://win-info.techidaily.com/wie-sie-einen-bootloader-fur-windows-11-uber-rufus-erstellen-konnen-anleitung-zur-herstellung-einer-uefi-kompatiblen-usb-festplatte/"><u>Wie Sie Einen Bootloader Für Windows 11 Über Rufus Erstellen Können – Anleitung Zur Herstellung Einer UEFI Kompatiblen USB-Festplatte</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-111087-c-ssd/"><u>Windows 11・10・8・7用の最もシンプルな Cドライブ SSDへの変更手順</u></a></li>
 </ul></div>
 

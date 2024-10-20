@@ -1,7 +1,7 @@
 ---
 title: Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads
-date: 2024-10-08T22:31:38.170Z
-updated: 2024-10-14T11:22:37.755Z
+date: 2024-10-18T02:54:49.865Z
+updated: 2024-10-20T05:50:28.227Z
 tags:
   - product
   - antivirus
@@ -60,13 +60,6 @@ A few days after this news broke, a second payload was discovered, said to be a 
 
 Point being, anything can be infected nowadays — even software that you think you are downloading from previously secure sources. The only way to truly stay on the safe side is to be actively vigilant against files and content that you download from the web.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are you downloading?
 
 It is not hard to pick up some clues along the way. For starters, if you are downloading something from a shady source, chances are that your package may come with a virus hidden in the download. Pirated content, in particular, runs a heavy risk.
@@ -74,6 +67,13 @@ It is not hard to pick up some clues along the way. For starters, if you are dow
 The website you are downloading it from is another factor. If you are grabbing something from a very basic site, you are probably being duped into downloading malware.
 
 [![malware website](https://www.malwarefox.com/wp-content/uploads/2019/06/malware_website.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/malware%5Fwebsite.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Of course, there are always exceptions to the rule. Most software developers are not web designers. But it’s easy to spot a minimalistic site that centers on the content first and foremost, with tall claims and scattered banners that entice you to click the download button.
 
@@ -83,20 +83,14 @@ Downloading files is not the only way you can end up with malware on your machin
 
 [![infected website](https://www.malwarefox.com/wp-content/uploads/2019/06/infected_website.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/06/infected%5Fwebsite.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That said, there are ways to block the virus at its primary stage. There are certain precautions you can take to insure against malware and reasonably ensure that the file you are downloading is safe.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Before you download
 
@@ -123,10 +117,10 @@ That said, there may be times when you might be concerned that a file might be m
 We’ll take a look at them next.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Online Malware Scanners
@@ -169,6 +163,19 @@ After the scans are completed, you are presented with a summary page that contai
 
 [![virustotal website](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal_website.png)](https://www.malwarefox.com/wp-content/uploads/2019/06/virustotal%5Fwebsite.png)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can use VirusTotal to not just scan program installers, executables and firmware files, but the service can be used to detect malware in any file — from Word documents and PDFs to images, sounds and videos. For common files, you will probably see a popup that notifies you that your file has already been analyzed recently. You can either view the analysis, or if the date was months ago, reanalyze it.
 
 If your file gets a clean bill of health from these scans, there is a fair chance that it does not come packing malware. In case of a false positive, you can also perform a web search on the file name and often find people discussing whether it is a virus or not.
@@ -186,10 +193,10 @@ And for those of you who regularly deal with downloads, you can also integrate V
 You can find extensions for [Google Chrome](https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka), [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/vtzilla/), and [Internet Explorer](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions#internet-explorer).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Scanning your downloaded file with an antivirus
@@ -205,13 +212,6 @@ Again, do keep in mind that absolute prevention is difficult, at best.
 Even the best tools can be surpassed.
 
 Case in point, the tale of CCleaner 5.33 above, a perfect example of how even multiengine antivirus tools like VirusTotal can struggle to keep up with the latest malware. That does not diminish their usefulness in any way — just goes to show the massive levels of threats we face.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -244,19 +244,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/0-recording-tips-for-recording-audio-with-high-quality/"><u>[New] 10 Recording Tips for Recording Audio with High Quality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-4-ways-to-watch-facebook-live-on-tv/"><u>[Updated] 4 Ways To Watch Facebook Live On TV</u></a></li>
-<li><a href="https://win-info.techidaily.com/1-how-to-delete-selected-text-and-remove-highlights-using-emeditor-a-comprehensive-guide/"><u>1. How to Delete Selected Text and Remove Highlights Using EmEditor - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-core-skills-in-video-and-film-creation/"><u>2024 Approved Core Skills in Video and Film Creation</u></a></li>
-<li><a href="https://win-info.techidaily.com/emeditor-text-editor-fixing-projectsdll-error-and-preventing-application-crashes/"><u>EmEditor Text Editor: Fixing Projects.dll Error and Preventing Application Crashes</u></a></li>
-<li><a href="https://win-info.techidaily.com/introducing-emeditor-professional-v13-beta-6-enhanced-text-editing-experience/"><u>Introducing EmEditor Professional v13 Beta 6 - Enhanced Text Editing Experience.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-time-to-upgrade-an-in-depth-review-comparing-googles-new-pixel-watch-with-apples-series-9-techradar/"><u>Is It Time to Upgrade? An In-Depth Review Comparing Google's New Pixel Watch with Apple's Series 9 | TechRadar</u></a></li>
-<li><a href="https://win-info.techidaily.com/line-sorting-feature-in-emeditor-arrange-based-on-line-size-for-improved-readability/"><u>Line Sorting Feature in EmEditor: Arrange Based on Line Size for Improved Readability</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/live-viewers-choice-obs-or-shadowtoolkit/"><u>Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-night-light-feature-for-a-comfortable-reading-experience/"><u>Mastering iPhone Night Light Feature for a Comfortable Reading Experience</u></a></li>
-<li><a href="https://win-info.techidaily.com/potential-syntax-errors-no-worries-with-emeditor-your-reliable-text-editing-companion/"><u>Potential Syntax Errors? No Worries with EmEditor - Your Reliable Text Editing Companion!</u></a></li>
-<li><a href="https://win-info.techidaily.com/professional-text-editing-software-emeditor-pro-version-900-beta-update/"><u>Professional Text Editing Software - EmEditor Pro Version 9.00 Beta Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-haldll-file-absence-on-windows-xp/"><u>Step-by-Step Guide: Correcting Hal.dll File Absence on Windows XP</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-process-making-high-impact-educational-videos-on-youtube/"><u>Unveiling the Process Making High-Impact Educational Videos on YouTube</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728487343917-7/"><u>「發現電腦中已經丟失的檔案？只需要這7種簡單方法，你就能安全地回收！」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-solitary-path-to-podcast-popularity/"><u>2024 Approved The Solitary Path to Podcast Popularity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-xstream-studios-a-complete-review/"><u>2024 Approved Unveiling the Secrets of XStream Studios - A Complete Review</u></a></li>
+<li><a href="https://win-info.techidaily.com/7-premier-windows-10-friendly-password-protectors-enhancing-your-digital-security/"><u>7 Premier Windows 10-Friendly Password Protectors: Enhancing Your Digital Security</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-chromebook-flip-c302ca-review/"><u>Asus Chromebook Flip C302CA Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tune-your-pcs-performance-avoiding-sudden-updates-on-windows-11/"><u>Fine-Tune Your PC's Performance: Avoiding Sudden Updates on Windows 11</u></a></li>
+<li><a href="https://win-info.techidaily.com/guide-to-performing-a-complete-backup-of-your-windows-11-system-step-by-step-instructions/"><u>Guide to Performing a Complete Backup of Your Windows 11 System: Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-documentary-narratives/"><u>In 2024, Crafting Compelling Documentary Narratives</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quantum-hdr-unveiled-insightful-guide-for-professionals/"><u>In 2024, Quantum HDR Unveiled Insightful Guide for Professionals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/metodos-de-reproduccion-y-duplicacion-opciones-para-la-gestion-de-datos/"><u>Métodos De Reproducción Y Duplicación: Opciones Para La Gestión De Datos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-guide-how-to-watch-the-entire-dragon-ball-series/"><u>Ordered Guide: How to Watch the Entire Dragon Ball Series</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728505175610-ssdwindows-10/"><u>SSDにおけるWindows 10起動時間短縮の効果的解決策</u></a></li>
+<li><a href="https://win-info.techidaily.com/three-methods-for-saving-your-gmail-data-automatic-and-hand-guided-techniques/"><u>Three Methods for Saving Your Gmail Data: Automatic and Hand-Guided Techniques</u></a></li>
 </ul></div>
 

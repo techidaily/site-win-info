@@ -1,7 +1,7 @@
 ---
 title: "Guida: Come Riparare Il Server Windows Server 2008 R2 Usando La Riga Di Comando"
-date: 2024-10-11T03:09:31.159Z
-updated: 2024-10-14T00:12:45.566Z
+date: 2024-10-15T08:02:40.059Z
+updated: 2024-10-19T20:24:54.286Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3f3f6a2e608d839212aa9eeb.jpg
@@ -43,13 +43,6 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
@@ -75,13 +68,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -136,13 +122,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -204,6 +183,13 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -227,10 +213,10 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -246,10 +232,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -262,6 +248,19 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,13 +269,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -294,22 +300,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-novel-approach-to-delivery-reinvented-box-revelations/"><u>[New] A Novel Approach to Delivery Reinvented Box Revelations</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-journey-to-digital-mastery-explore-best-10-android-drawing-apps-for-2024/"><u>[New] Journey to Digital Mastery Explore Best 10 Android Drawing Apps for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-iphone-savvy-crafting-elegant-time-stretched-videos/"><u>[Updated] 2024 Approved IPhone Savvy Crafting Elegant Time-Stretched Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-remove-background-in-logitech-webcam-recording/"><u>[Updated] Remove Background in Logitech Webcam Recording</u></a></li>
-<li><a href="https://win-info.techidaily.com/1726227517724-3gpp3gp-movavi/"><u>免費在線3GPP到3GP文件轉換服務-Movavi的高效解決方案</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-thorough-insight-into-androids-lightroom-application-for-2024/"><u>A Thorough Insight Into Android's Lightroom Application for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capturing-the-ultimate-xbox-experience-a-screen-recorders-manual/"><u>Capturing the Ultimate Xbox Experience A Screen Recorder's Manual</u></a></li>
-<li><a href="https://win-info.techidaily.com/conversion-avi-a-mp4-top-5-metodos-para-optimizar-tu-dispositivo-mac/"><u>Conversión AVI a MP4: Top 5 Métodos Para Optimizar Tu Dispositivo Mac</u></a></li>
-<li><a href="https://win-info.techidaily.com/conversione-gratuita-online-da-mkv-a-3gp-con-movavi-guida-rapida/"><u>Conversione Gratuita Online Da MKV a 3GP Con Movavi - Guida Rapida</u></a></li>
-<li><a href="https://win-info.techidaily.com/gravacion-de-video-a-formato-de-audio-libre-y-gratuita-con-mp4-a-mp3-online/"><u>Gravación De Video a Formato De Audio Libre Y Gratuita Con MP4 a MP3 Online</u></a></li>
-<li><a href="https://win-info.techidaily.com/guida-passo-passo-come-creare-un-montaggio-di-video-con-software-movavi/"><u>Guida Passo-Passo: Come Creare Un Montaggio Di Video Con Software Movavi</u></a></li>
-<li><a href="https://win-info.techidaily.com/les-10-outils-gratuits-les-plus-performants-pour-automatiser-le-completion-de-formulaires-pdf-sous-windows-and-macos/"><u>Les 10 Outils Gratuits Les Plus Performants Pour Automatiser Le Complétion De Formulaires PDF Sous Windows & macOS</u></a></li>
-<li><a href="https://win-info.techidaily.com/metodo-rapido-y-gratuito-para-convertir-musica-wma-a-mp3-con-el-servicio-web-de-convertidor-movavi/"><u>Método Rápido Y Gratuito Para Convertir Música WMA a MP3 Con El Servicio Web De Convertidor Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-methodology-for-full-uninstallation-of-wsl/"><u>Step-by-Step Methodology for Full Uninstallation of WSL</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/top-12-action-cams-with-precision-global-locating-systems-for-2024/"><u>TOP 12 Action Cams with Precision Global Locating Systems for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/transforma-tu-video-tga-en-un-rapido-gif-animado-la-inolvidable-solucion-de-conversion-libre-y-online-por-movavi/"><u>Transforma Tu Video TGA en Un Rápido GIF Animado: La Inolvidable Solución De Conversión Libre Y OnLine Por Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wire-free-workspace-pairing-wireless-mice-with-windowsmac-systems/"><u>Wire-Free Workspace: Pairing Wireless Mice with Windows/Mac Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-narratives-instagram-carousel-for-2024/"><u>[New] Visual Narratives Instagram Carousel for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-your-xbox-playtime-for-sharing/"><u>[Updated] In 2024, Capturing Your Xbox Playtime for Sharing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/"><u>[Updated] In 2024, The Easy Way to Screen Record - Your Ultimate Guide on Mi 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-initial-cinematographers-work-scrutiny-and-replacement-ideas-for-2024/"><u>[Updated] Initial Cinematographer's Work Scrutiny & Replacement Ideas for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-online-team-discussions-for-2024/"><u>[Updated] Optimizing Online Team Discussions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-8-schedulers-to-optimize-your-instagram-posts/"><u>2024 Approved Essential 8 Schedulers to Optimize Your Instagram Posts</u></a></li>
+<li><a href="https://win-info.techidaily.com/backup-your-entire-hard-drive-on-windows-11-twin-approach-guide-for-disk-imaging/"><u>Backup Your Entire Hard Drive on Windows 11: Twin Approach Guide for Disk Imaging</u></a></li>
+<li><a href="https://win-info.techidaily.com/beheben-von-partitionsproblemen-im-betriebssystem-windows/"><u>Beheben Von Partitionsproblemen Im Betriebssystem Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/closed-chatgpt-sign-ups-unraveling-the-reasons-and-predictions-on-reopening-dates/"><u>Closed ChatGPT Sign-Ups: Unraveling the Reasons & Predictions on Reopening Dates</u></a></li>
+<li><a href="https://win-info.techidaily.com/come-esegui-il-backup-di-sistema-su-disco-rigido-esterno-con-windows-8/"><u>Come Esegui Il Backup Di Sistema Su Disco Rigido Esterno Con Windows 8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-drone-visuals-for-2024/"><u>Comprehensive Guide to Drone Visuals for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/gratis-aomei-backupper-professionelle-datentresori-und-dateisicherungen-schutzen/"><u>Gratis AOMEI Backupper: Professionelle Datentresori Und Dateisicherungen Schützen</u></a></li>
+<li><a href="https://win-info.techidaily.com/mastering-quick-file-recovery-in-windows-11-a-comprehensive-backup-and-restore-tutorial/"><u>Mastering Quick File Recovery in Windows 11: A Comprehensive Backup & Restore Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-aerial-vehicles-your-next-purchase/"><u>Optimal Aerial Vehicles Your Next Purchase</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-microphone-performance-with-xbox-app-windows-11/"><u>Optimizing Microphone Performance with Xbox App Windows 11</u></a></li>
+<li><a href="https://win-info.techidaily.com/restore-lost-files-for-free-on-windows-10-or-11-using-these-4-easy-methods/"><u>Restore Lost Files for Free on Windows 10 or 11 Using These 4 Easy Methods</u></a></li>
+<li><a href="https://win-info.techidaily.com/sicherung-von-windows-10-auf-qnap-nas-die-zwei-besten-ansatze-erklart/"><u>Sicherung Von Windows 10 Auf QNAP NAS: Die Zwei Besten Ansätze Erklärt</u></a></li>
+<li><a href="https://win-info.techidaily.com/wie-man-sich-mit-haufigen-speicherfehlern-auf-windows-11-auseinandersetzt-und-behebt/"><u>Wie Man Sich Mit Häufigen Speicherfehlern Auf Windows 11 Auseinandersetzt Und Behebt</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728489980741-windows-112/"><u>スピーディなフォルダ複製：Windows 11で知っておくべき手法2点</u></a></li>
 </ul></div>
 
