@@ -1,7 +1,7 @@
 ---
 title: Top 5 Weakest Passwords Used by Over Half of Internet Users
-date: 2024-10-19T00:47:40.727Z
-updated: 2024-10-20T02:36:08.080Z
+date: 2024-10-31T20:45:56.534Z
+updated: 2024-11-06T17:45:24.654Z
 tags:
   - product
   - antivirus
@@ -89,6 +89,13 @@ As you can compare, the list of 2020 and 2019 is exact. And comparing it with th
 
 So, what mistakes are people doing while choosing a password? Let us find out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Most Common Password Mistakes
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
@@ -101,43 +108,30 @@ While it may be a great way to show your love and respect towards your close one
 
 It makes it easy for hackers to crack your password by just knowing a few basic details about you.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Using the Same Password Everywhere**
 
 Another common mistake made by most people is using the same password everywhere. In order to stay away from the strain of remembering different passwords for different accounts, the maximum number of people choose to keep a single password for all of their accounts. This practice makes them more vulnerable to cyberattacks like hacking. Also, all your accounts will be accessible to hackers if they get hold of even one account’s password. Avoid such practice and at least keep different passwords for your every social media login.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Sharing passwords with others**
 
 People remember this. Passwords are meant just for your eyes. They are not for sharing even with your closest person. Besides, it is not always about faith. If the person with whom you have shared your password, have stored it in a system that got hacked, then your password will also get into the hands of the hacker. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Password Management DO’s and DON’Ts
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips to Improve your Password Security
@@ -155,10 +149,10 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor%5Fauthentication) is a security measure in which users required to authenticate themselves using more than one credentials. For example, the first step of login could be entering your username and password; the second step could be verification by mobile OTP: and the third step could be verification by fingerprint.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Don’t Create Passwords with Dictionary Words**
@@ -208,24 +202,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-step-by-step-livestreaming-to-facebook-from-iphonestablets-for-2024/"><u>[New] Step-by-Step Livestreaming to Facebook From iPhones/Tablets for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-eye-catching-images-windows-10s-screenshot-feature/"><u>[Updated] Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
-<li><a href="https://win-info.techidaily.com/1-schnell-und-einfach-ssd-wechseln-auf-deinem-pc-anleitung-zum-austausch/"><u>1. Schnell Und Einfach: SSD Wechseln Auf Deinem PC – Anleitung Zum Austausch</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-1187norton-ghostusb/"><u>如何在Windows 11/8/7系统中制作Norton Ghost的可启动USB，步骤分享两种方式</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-honor-80-pro-straight-screen-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 80 Pro Straight Screen Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-twitch-account-security-with-2fa-tips-and-tricks-for-easy-configuration/"><u>Enhance Your Twitch Account Security with 2FA: Tips & Tricks for Easy Configuration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-selecting-best-free-srt-tools-for-2024/"><u>Expert Tips on Selecting Best FREE SRT Tools for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/guida-completa-scelta-del-solitario-e-gratuito-software-clonato-per-windows-11/"><u>Guida Completa: Scelta Del Solitario E Gratuito Software Clonato per Windows 11</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-create-a-system-restore-point-on-windows-11-10-8-or-7-for-easy-recovery/"><u>How to Create a System Restore Point on Windows 11, 10, 8, or 7 for Easy Recovery</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-f15-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy F15 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco M6 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixed-guide-for-frozen-epic-game-launcher/"><u>Quick Fixed Guide for Frozen Epic Game Launcher</u></a></li>
-<li><a href="https://win-info.techidaily.com/reclaim-lost-files-the-ifind-pro-raid-recovery-suite-safe-and-secure-retrieval-of-raid-015-data/"><u>Reclaim Lost Files: The iFind Pro RAID Recovery Suite - Safe and Secure Retrieval of Raid 0/1/5 Data</u></a></li>
-<li><a href="https://win-info.techidaily.com/securing-multiple-drives-on-windows-11-a-comprehensive-guide/"><u>Securing Multiple Drives on Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stay-connected-on-the-go-messaging-and-calling-loved-ones-via-iphone-apps-from-your-apple-watch/"><u>Stay Connected on the Go: Messaging & Calling Loved Ones via iPhone Apps From Your Apple Watch</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-v30-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo V30 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-info.techidaily.com/vcenter-management-tutorial-how-to-set-upteardown-virtual-machine-registration/"><u>VCenter Management Tutorial: How to Set Up/Teardown Virtual Machine Registration</u></a></li>
-<li><a href="https://win-info.techidaily.com/wie-sie-einen-bootloader-fur-windows-11-uber-rufus-erstellen-konnen-anleitung-zur-herstellung-einer-uefi-kompatiblen-usb-festplatte/"><u>Wie Sie Einen Bootloader Für Windows 11 Über Rufus Erstellen Können – Anleitung Zur Herstellung Einer UEFI Kompatiblen USB-Festplatte</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-111087-c-ssd/"><u>Windows 11・10・8・7用の最もシンプルな Cドライブ SSDへの変更手順</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-transition-of-zip-to-subrip-srt-formats/"><u>[New] Navigating the Transition of Zip to SubRip (SRT) Formats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-optimal-gopro-protection-top-10-selections/"><u>[New] Selecting Optimal GoPro Protection - Top 10 Selections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-clear-your-default-podcast-listings-on-spotify/"><u>[Updated] 2024 Approved How to Clear Your Default Podcast Listings on Spotify</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>[Updated] In 2024, Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-visual-narratives-at-your-fingertips-explore-the-10-best-banner-designers/"><u>[Updated] Visual Narratives at Your Fingertips Explore the 10 Best Banner Designers</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728485187845-windows-1011/"><u>恢復 Windows 10/11 系统还原点：四种不同方式</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-pelinux-bootable-mediausbdvdiso/"><u>制作Windows PE/Linux Bootable Media：USB、DVD和ISO指南</u></a></li>
+<li><a href="https://win-info.techidaily.com/come-facilmente-crea-una-magica-immagine-dal-tempo-del-disco-con-windows-11/"><u>Come Facilmente Crea Una Magica Immagine Dal Tempo Del Disco Con Windows 11</u></a></li>
+<li><a href="https://win-info.techidaily.com/easy-guide-how-to-duplicate-a-windows-server-2011-disk-on-ssd-or-hdd/"><u>Easy Guide: How to Duplicate a Windows Server 2011 Disk on SSD or HDD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-knowledge-for-using-final-cut-pro-effectively/"><u>Essential Knowledge for Using Final Cut Pro Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-listening-transcription-tool-unveiled/"><u>Free Listening Transcription Tool Unveiled</u></a></li>
+<li><a href="https://win-info.techidaily.com/impossible-a-trouver-correctif-urgent-pour-image-windows-re-agissez-sans-delai/"><u>Impossible À Trouver : Correctif Urgent Pour Image Windows RE - Agissez Sans Délai!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win-info.techidaily.com/maximizing-performance-in-depth-tutorial-on-upgrading-to-an-ssd-for-the-dell-optiplex-7010/"><u>Maximizing Performance: In-Depth Tutorial on Upgrading to an SSD for the Dell OptiPlex 7010</u></a></li>
+<li><a href="https://win-info.techidaily.com/methode-rapide-and-intuitive-de-recouvrement-de-donnees-sur-une-partition-gpt/"><u>Méthode Rapide & Intuitive De Recouvrement De Données Sur Une Partition GPT</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshooting-opgelost-disk-error-on-unknownuninitialized-drives-in-windows-10-and-11/"><u>Troubleshooting Opgelost Disk Error on Unknown/Uninitialized Drives in Windows 10 & 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/upgraded-vision-correcting-the-haziness-in-your-outriders-gameplay/"><u>Upgraded Vision: Correcting the Haziness in Your Outriders Gameplay</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-11-disk-upgrade-guide-swap-your-hddssd-without-reinstalling/"><u>Windows 11 Disk Upgrade Guide - Swap Your HDD/SSD Without Reinstalling</u></a></li>
 </ul></div>
 
