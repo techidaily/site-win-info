@@ -1,7 +1,7 @@
 ---
 title: Top 5 Weakest Passwords Used by Over Half of Internet Users
-date: 2024-10-31T20:45:56.534Z
-updated: 2024-11-06T17:45:24.654Z
+date: 2024-11-25T10:29:52.634Z
+updated: 2024-11-25T23:24:58.149Z
 tags:
   - product
   - antivirus
@@ -90,15 +90,16 @@ As you can compare, the list of 2020 and 2019 is exact. And comparing it with th
 So, what mistakes are people doing while choosing a password? Let us find out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Most Common Password Mistakes
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Using Personal Information in Passwords**
 
@@ -112,13 +113,6 @@ It makes it easy for hackers to crack your password by just knowing a few basic 
 
 Another common mistake made by most people is using the same password everywhere. In order to stay away from the strain of remembering different passwords for different accounts, the maximum number of people choose to keep a single password for all of their accounts. This practice makes them more vulnerable to cyberattacks like hacking. Also, all your accounts will be accessible to hackers if they get hold of even one account’s password. Avoid such practice and at least keep different passwords for your every social media login.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Sharing passwords with others**
 
 People remember this. Passwords are meant just for your eyes. They are not for sharing even with your closest person. Besides, it is not always about faith. If the person with whom you have shared your password, have stored it in a system that got hacked, then your password will also get into the hands of the hacker. 
@@ -128,15 +122,16 @@ People remember this. Passwords are meant just for your eyes. They are not for s
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips to Improve your Password Security
 
 Here are some tips for creating a secured password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Use a Robust Password Manager**
 
@@ -144,16 +139,13 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Use Multi-Factor Authentication**
 
 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor%5Fauthentication) is a security measure in which users required to authenticate themselves using more than one credentials. For example, the first step of login could be entering your username and password; the second step could be verification by mobile OTP: and the third step could be verification by fingerprint.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Don’t Create Passwords with Dictionary Words**
 
@@ -202,24 +194,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-the-transition-of-zip-to-subrip-srt-formats/"><u>[New] Navigating the Transition of Zip to SubRip (SRT) Formats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-selecting-optimal-gopro-protection-top-10-selections/"><u>[New] Selecting Optimal GoPro Protection - Top 10 Selections</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-clear-your-default-podcast-listings-on-spotify/"><u>[Updated] 2024 Approved How to Clear Your Default Podcast Listings on Spotify</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>[Updated] In 2024, Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-visual-narratives-at-your-fingertips-explore-the-10-best-banner-designers/"><u>[Updated] Visual Narratives at Your Fingertips Explore the 10 Best Banner Designers</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728485187845-windows-1011/"><u>恢復 Windows 10/11 系统还原点：四种不同方式</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-pelinux-bootable-mediausbdvdiso/"><u>制作Windows PE/Linux Bootable Media：USB、DVD和ISO指南</u></a></li>
-<li><a href="https://win-info.techidaily.com/come-facilmente-crea-una-magica-immagine-dal-tempo-del-disco-con-windows-11/"><u>Come Facilmente Crea Una Magica Immagine Dal Tempo Del Disco Con Windows 11</u></a></li>
-<li><a href="https://win-info.techidaily.com/easy-guide-how-to-duplicate-a-windows-server-2011-disk-on-ssd-or-hdd/"><u>Easy Guide: How to Duplicate a Windows Server 2011 Disk on SSD or HDD</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-knowledge-for-using-final-cut-pro-effectively/"><u>Essential Knowledge for Using Final Cut Pro Effectively</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-listening-transcription-tool-unveiled/"><u>Free Listening Transcription Tool Unveiled</u></a></li>
-<li><a href="https://win-info.techidaily.com/impossible-a-trouver-correctif-urgent-pour-image-windows-re-agissez-sans-delai/"><u>Impossible À Trouver : Correctif Urgent Pour Image Windows RE - Agissez Sans Délai!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://win-info.techidaily.com/maximizing-performance-in-depth-tutorial-on-upgrading-to-an-ssd-for-the-dell-optiplex-7010/"><u>Maximizing Performance: In-Depth Tutorial on Upgrading to an SSD for the Dell OptiPlex 7010</u></a></li>
-<li><a href="https://win-info.techidaily.com/methode-rapide-and-intuitive-de-recouvrement-de-donnees-sur-une-partition-gpt/"><u>Méthode Rapide & Intuitive De Recouvrement De Données Sur Une Partition GPT</u></a></li>
-<li><a href="https://win-info.techidaily.com/troubleshooting-opgelost-disk-error-on-unknownuninitialized-drives-in-windows-10-and-11/"><u>Troubleshooting Opgelost Disk Error on Unknown/Uninitialized Drives in Windows 10 & 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/upgraded-vision-correcting-the-haziness-in-your-outriders-gameplay/"><u>Upgraded Vision: Correcting the Haziness in Your Outriders Gameplay</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-11-disk-upgrade-guide-swap-your-hddssd-without-reinstalling/"><u>Windows 11 Disk Upgrade Guide - Swap Your HDD/SSD Without Reinstalling</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rhythmic-instagrams-a-step-by-step-music-guide/"><u>[Updated] 2024 Approved Rhythmic Instagrams A Step-by-Step Music Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimal-mac-mpeg-producer/"><u>[Updated] Optimal Mac MPEG Producer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exhaustive-evaluation-the-new-360-camera/"><u>2024 Approved Exhaustive Evaluation The New 360 Camera</u></a></li>
+<li><a href="https://win-info.techidaily.com/dell-quick-fixes-for-missing-files-on-dell-laptops/"><u>失去Dell筆記本電腦中的文件？快速救援方法這裡！- Quick Fixes for Missing Files on Dell Laptops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-setting-up-and-managing-timely-reminders-on-slack-platforms/"><u>Expert Tips for Setting Up & Managing Timely Reminders on Slack Platforms</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728506592630-icloud/"><u>ICloud 復原功能中的相片恢復錯誤 - 已修正</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-power-solutions-for-gopro-hero5-official-and-third-party-brands/"><u>In 2024, Optimal Power Solutions for GoPro Hero5 Official & Third-Party Brands</u></a></li>
+<li><a href="https://win-info.techidaily.com/lernen-sie-effiziente-methoden-fur-das-ubertragen-von-kamera-fotos-zu-ihrem-ipad-kennen/"><u>Lernen Sie Effiziente Methoden Für Das Übertragen Von Kamera-Fotos Zu Ihrem iPad Kennen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/optimal-drone-choices-available-immediately-for-2024/"><u>Optimal Drone Choices Available Immediately for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/protect-your-inbox-how-to-securely-backup-emails-using-aomei-backupper-features/"><u>Protect Your Inbox: How to Securely Backup Emails Using AOMEI Backupper Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stay-secure-dont-get-hooked-by-googles-deceptive-bard/"><u>Stay Secure, Don't Get Hooked by Google's Deceptive Bard</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-11108sandisk-ssd/"><u>Windows 11/10/8免費SanDisk SSD 三位一體硬碟壓制器 - 拿手好工</u></a></li>
 </ul></div>
 

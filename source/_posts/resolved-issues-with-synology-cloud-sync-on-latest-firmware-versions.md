@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Issues with Synology Cloud Sync on Latest Firmware Versions"
-date: 2024-11-15T17:01:04.578Z
-updated: 2024-11-16T23:34:09.830Z
+date: 2024-11-18T21:51:12.776Z
+updated: 2024-11-26T04:30:50.377Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c763bbf782b71c474fcdd45b6.jpg
@@ -24,9 +24,17 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -43,6 +51,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
@@ -50,23 +62,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -88,6 +84,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -125,13 +125,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -150,13 +143,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -172,10 +158,7 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -258,13 +241,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -274,6 +250,10 @@ Aiutaci a migliorare questo articolo
 Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
 
@@ -300,20 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-guide-to-student-centric-historical-yt-channels/"><u>[New] 2024 Approved The Ultimate Guide to Student-Centric Historical YT Channels</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-complete-guide-to-crafting-best-in-class-yt-thumbnails/"><u>[Updated] In 2024, A Complete Guide to Crafting Best-in-Class YT Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conceptualists-engineering-marvel-online-worlds/"><u>[Updated] In 2024, Conceptualists Engineering Marvel Online Worlds</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effortless-steps-to-transform-your-mts-videos-into-high-quality-avi-formats/"><u>Effortless Steps to Transform Your MTS Videos Into High-Quality AVI Formats</u></a></li>
-<li><a href="https://win-info.techidaily.com/gratis-file-recovery-guide-wissen-sie-wie-ihre-geloschten-dateien-unter-windows-betriebssystemen-wiederhergestellt-werden-konnen/"><u>Gratis File Recovery Guide: Wissen Sie, Wie Ihre Gelöschten Dateien Unter Windows-Betriebssystemen Wiederhergestellt Werden Können</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-lava-yuva-2-by-fonelab-android-recover-data/"><u>How to recover lost data from Lava Yuva 2?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-sony-xperia-1-v-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Sony Xperia 1 V</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-seamlessly-revert-from-windows-11-back-to-windows-7-without-data-loss-a-two-step-guide/"><u>How to Seamlessly Revert From Windows 11 Back to Windows 7 Without Data Loss: A Two-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/les-3-meilleures-techniques-pour-formater-un-hdd-externe-sous-windows-11-guide-complet/"><u>Les 3 Meilleures Techniques Pour Formater Un HDD Externe Sous Windows 11: Guide Complet</u></a></li>
-<li><a href="https://win-info.techidaily.com/mejora-el-rendimiento-seo-de-tus-archivos-escaneados-con-estrategias-expertas-ideas-utiles-para-una-visibilidad-mayor/"><u>Mejora El Rendimiento SEO De Tus Archivos Escaneados Con Estrategias Expertas: Ideas Útiles Para Una Visibilidad Mayor</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pioneering-portable-cd-devices-of-the-year-2024/"><u>Pioneering Portable CD Devices of the Year 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/wbadminpc/"><u>WbadminコマンドでPCの完全なディスクバックアップ手順ガイド</u></a></li>
-<li><a href="https://win-info.techidaily.com/wiederherstellung-von-daten-auf-einer-externen-seagate-festplatte-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Auf Einer Externen Seagate-Festplatte: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728492443394-windows-11/"><u>Windows 11のゴミ箱に入っていないファイル復元テクニック</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-insights-on-perfecting-your-gaming-screenshots/"><u>[Updated] 2024 Approved Expert Insights on Perfecting Your Gaming Screenshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-most-engaging-sandbox-gaming-titles/"><u>2024 Approved The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728498784232-windows-server/"><u>最新・最も良く使われる方法：Windows Serverでのバックアップイメージ作り術 - 上位選定</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-laptop-unveiled-your-wallet-friendly-option-for-powerful-nvidia-40-series-graphics/"><u>Acer Laptop Unveiled: Your Wallet-Friendly Option for Powerful Nvidia 40 Series Graphics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-se-2020-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone SE (2020) Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://win-info.techidaily.com/gestion-intelligente-de-multiples-taches-sauvegardes-dans-windows-serveur/"><u>Gestion Intelligente De Multiples Tâches Sauvegardes Dans Windows Serveur</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-sony-xperia-10-v-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Sony Xperia 10 V FRP Without Computer</u></a></li>
+<li><a href="https://win-info.techidaily.com/in-depth-analysis-of-effective-file-system-support-strategies/"><u>In-Depth Analysis of Effective File System Support Strategies</u></a></li>
+<li><a href="https://win-info.techidaily.com/microsoft-word-windows-1011/"><u>Microsoft Wordファイルの復元: Windows 10/11で消滅した文書を取り戻す方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/popular-tags-for-instagram-that-you-should-be-using/"><u>Popular Tags for Instagram That You Should Be Using</u></a></li>
+<li><a href="https://win-info.techidaily.com/quick-and-effective-techniques-for-transferring-outlook-emails-to-pc-or-mac/"><u>Quick and Effective Techniques for Transferring Outlook Emails to PC or Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-msi-afterburner-failing-to-recognize-graphics-card-in-windows-11/"><u>Resolved: Fixes for MSI Afterburner Failing to Recognize Graphics Card in Windows 11</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-12-solutions-for-insufficient-storage-on-your-pc-during-windows-updates/"><u>Top 12 Solutions for Insufficient Storage on Your PC During Windows Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-what-is-wi-fi-calling/"><u>Unraveling the Mystery: What Is Wi-Fi Calling?</u></a></li>
+<li><a href="https://win-info.techidaily.com/wielobiegowy-rozdzian-klonowania-dysku-uruchamiajacego-pomyslowy-porownywanie-oprogramowan/"><u>Wielobiegowy Rozdzian Klonowania Dysku Uruchamiającego: Pomysłowy Porównywanie Oprogramowań</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-10windows-nw/"><u>Windows 10からWindows Nw へプロファイル転送手順３点</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-avimov-mp4/"><u>スピーディで便利な MP4 変換ツール：AVI/MOV 動画をすぐに MP4 化する方法</u></a></li>
 </ul></div>
 

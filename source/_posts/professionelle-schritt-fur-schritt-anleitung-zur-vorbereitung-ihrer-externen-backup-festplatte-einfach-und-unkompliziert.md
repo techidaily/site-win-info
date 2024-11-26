@@ -1,7 +1,7 @@
 ---
 title: Professionelle Schritt-Für-Schritt-Anleitung Zur Vorbereitung Ihrer Externen Backup-Festplatte – Einfach Und Unkompliziert!
-date: 2024-11-13T17:58:54.226Z
-updated: 2024-11-16T17:30:52.265Z
+date: 2024-11-25T08:41:22.253Z
+updated: 2024-11-26T05:12:20.977Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c152160890846a7104d3b895b2849.jpg
@@ -27,6 +27,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -65,9 +69,17 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -87,13 +99,6 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -111,13 +116,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -177,13 +175,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -204,13 +195,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -225,6 +209,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -232,6 +220,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -245,13 +237,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -262,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -271,10 +260,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -294,16 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-conferencing-backdrops-blurring-for-better-presence/"><u>[New] In 2024, Clear Conferencing Backdrops Blurring for Better Presence</u></a></li>
-<li><a href="https://win-info.techidaily.com/1-que-es-lo-mejor-para-borrar-copias-de-seguridad-antiguas-y-fotos-en-las-versiones-recientes-de-windows-7-8-10-11/"><u>1. Qué Es Lo Mejor Para Borrar Copias De Seguridad Antiguas Y Fotos en Las Versiones Recientes De Windows (7, 8, 10, 11)</u></a></li>
-<li><a href="https://win-info.techidaily.com/effortless-file-transfer-techniques-for-streamlining-twofold-storage-areas/"><u>Effortless File Transfer Techniques for Streamlining Twofold Storage Areas</u></a></li>
-<li><a href="https://win-info.techidaily.com/guide-complet-transfert-securise-de-fichiers-entre-systemes-dexploitation-windows-versions-11-8-et-7/"><u>Guide Complet : Transfert Sécurisé De Fichiers Entre Systèmes D'Exploitation Windows (Versions 11, 8 Et 7)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-y100-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-beyond-indexation-decoding-the-purpose-of-unlisted-videos/"><u>In 2024, Beyond Indexation Decoding the Purpose of 'Unlisted' Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-edge-40-neo-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola Edge 40 Neo FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://article-posts.techidaily.com/virtual-frontiers-notable-vr-creators/"><u>Virtual Frontiers Notable VR Creators</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-11-permanent-delete-and-comprehensive-guide/"><u>Windows 11, Permanent Delete, and Comprehensive Guide.</u></a></li>
-<li><a href="https://win-info.techidaily.com/44oo44o844oi44or44k944kz44oz44gu54sh5yplusn5bplusc6kej5rg6562wic0g5pya6ygp44gq5lplusu5q2j5pa55rov/"><u>ノートパソコンの無反応解決策 - 最適な修正方法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iscal-landmarks-understanding-mr-beasts-financial-growth-for-2024/"><u>[New] Fiscal Landmarks Understanding Mr. Beast’s Financial Growth for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-captivating-podcasts-a-step-by-step-writing-guide/"><u>[New] In 2024, Crafting Captivating Podcasts A Step-by-Step Writing Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visual-humor-for-iphones-enthusiasts-for-2024/"><u>[New] Visual Humor for iPhones Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-can-televising-streaming-services-include-facebook-content-for-2024/"><u>[Updated] Can Televising Streaming Services Include Facebook Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simple-steps-modify-windows-speech-of-sea-creatures/"><u>[Updated] Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-cyberpunk-2077-playability-fixes-for-overcoming-fps-drops-and-freezing/"><u>Enhanced Cyberpunk 2077 Playability - Fixes for Overcoming FPS Drops & Freezing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oneplus-12-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your OnePlus 12 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-info.techidaily.com/navigating-through-troubles-an-in-depth-tutorial-on-resolving-windows-10-installation-issues/"><u>Navigating Through Troubles: An In-Depth Tutorial on Resolving Windows 10 Installation Issues</u></a></li>
+<li><a href="https://win-info.techidaily.com/pc-windows-os/"><u>PC の Windows OS 上でコマンドプロンプトを使ったシャットダウン手順</u></a></li>
+<li><a href="https://win-info.techidaily.com/recover-lost-documents-how-to-extract-removed-files-from-the-recycle-bin-on-various-windows-versions/"><u>Recover Lost Documents: How to Extract Removed Files From the Recycle Bin on Various Windows Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-converting-videoclips-to-m4a-with-minimal-hustle/"><u>The Ultimate Tutorial: Converting Videoclips to M4A with Minimal Hustle</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-free-xyz-duplicate-tools-compatible-with-windows-11-10-8-and-7/"><u>Top Free XYZ Duplicate Tools Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-kostenlose-software-zum-erstellen-von-usb-images-fur-windows-11-10-8-und-7/"><u>Top Kostenlose Software Zum Erstellen Von USB-Images Für Windows 11, 10, 8 Und 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-could-chatgpt-use-lead-to-job-termination/"><u>Understanding the Risks: Could ChatGPT Use Lead to Job Termination?</u></a></li>
+<li><a href="https://win-info.techidaily.com/wie-man-den-zugang-zu-einem-verschlusselten-iphone-backup-wiederherstellt-wenn-das-passwort-verloren-geht-komplettes-tutorial/"><u>Wie Man Den Zugang Zu Einem Verschlüsselten iPhone Backup Wiederherstellt, Wenn Das Passwort Verloren Geht - Komplettes Tutorial</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-10-aktualisierungsprobleme-behebung-des-schwarzen-bildschirms-durch-korrekturen/"><u>Windows 10 Aktualisierungsprobleme: Behebung Des Schwarzen Bildschirms Durch Korrekturen</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728469129463-windows-11-5/"><u>Windows 11 バックアップを効率化するための 5 つのシンプル方法! - 時間を節約しよう</u></a></li>
 </ul></div>
 

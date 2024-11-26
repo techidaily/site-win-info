@@ -1,7 +1,7 @@
 ---
 title: "Become a Pro at Digital Mischief: 10 Essential Strategies to Convince Friends You're a Hacker (Just Kidding!)"
-date: 2024-11-11T18:16:03.337Z
-updated: 2024-11-17T00:52:56.470Z
+date: 2024-11-19T14:34:49.685Z
+updated: 2024-11-26T11:25:08.512Z
 tags:
   - product
   - antivirus
@@ -62,6 +62,10 @@ Table of Contents
 
 ![](https://malwarefox.com/wp-content/uploads/2017/11/coding.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 No, I am not asking you to learn to code. It is simple and one of the best tricks to prank your friends and fool them into thinking you have hacked someone’s computer. Just log in to www.hackertyper.com and press a few keys. Then press the Alt key twice.
 
 A pop-up message stating “Access Granted” will be displayed on the screen. You only have to press a few keys to make sure friends believe in your “hacking capabilities.”
@@ -94,6 +98,10 @@ Just type **chrome://settings/passwords** in the URL tab and hit enter. From her
 
 [8 Best Password Managers For Windows 10](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Inspect Element to Reveal Passwords
 
 Shock your friend by stealing their Facebook passwords. It’s quite simple.
@@ -121,13 +129,6 @@ Your first virus made in notepad is ready!
 
 ![Deploy Keylogger Software](https://malwarefox.com/wp-content/uploads/2017/11/login.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 It is a reasonably simple way to look like a professional hacker in front of your friends. Take any of your friend’s phones or PC and download a keylogger software on them. A keylogger software essentially keeps a record of every keystroke and stores it in a log file.
 
 Using this method, you can gain access to your friends’ passwords and show it to them later on.
@@ -142,13 +143,6 @@ Download this [fake progress bar](https://www.digitalvolcano.co.uk/other.html), 
 
 Your superior hacking skills will spellbind them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Makeover your PC for the Look and Feel of a Hacker’s PC
 
 Download Rainmeter and change the whole look of your PC. Rainmeter is one of the best Utility software for Windows PC that’ll give you the entire look and feel of a hacker’s PC using a [Rainmeter hacker theme](https://yash1331.deviantart.com/art/J-A-R-V-I-S-S-H-I-E-LD-OS-Yash1331-372105967). Just bring your friends’ home and look at their surprised reactions at your hacking gadget.
@@ -158,10 +152,7 @@ Download Rainmeter and change the whole look of your PC. Rainmeter is one of the
 Rainmeter is available for download free of cost.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Give your Laptop the Personality that Shouts Hacker
@@ -172,6 +163,10 @@ Rainmeter is available for download free of cost.
 
 Purchase a laptop skin that is “hacker inspired” and select wallpapers that are mysterious and geeky to make your prank successful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Prank your Friends with Resource Hacker
 
 Resource Hacker is a free tool that you can use to prank your friends. Download this free software and modify the values to tell your friends how you’ve decompiled this software and then recompiled it with your modifications.
@@ -179,10 +174,7 @@ Resource Hacker is a free tool that you can use to prank your friends. Download 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2017/12/resource-hacker.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 They’ll be stunned.
@@ -201,13 +193,6 @@ Until next time. Happy Pranking!
 
 1. ![](https://secure.gravatar.com/avatar/a961ee94a3265b611053a137d6a2e769?s=50&d=mm&r=g)  
 [Chiming Wang](http://hackertyper.com)  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [May 17, 2018 at 5:29 am](https://tools.techidaily.com/malwarefox/products/)  
 Thanks for featuring my website!  
@@ -236,6 +221,10 @@ Thanks for featuring my website!
          * ![](https://secure.gravatar.com/avatar/870867091108c21261158f58e134a3d5?s=50&d=mm&r=g)  
          SCHOOL COMPUTER  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
          [March 30, 2021 at 8:35 pm](https://tools.techidaily.com/malwarefox/products/)  
          same 😄  
          [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -252,6 +241,10 @@ Thanks for featuring my website!
          [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/e51c9a213c2bc00d3e6ee41bd8985c3f?s=50&d=mm&r=g)  
    Emerald  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    [December 13, 2021 at 6:44 pm](https://tools.techidaily.com/malwarefox/products/)  
    OMG THIS IS THE BEST!! I FINALLY GOT REVENGE ON MY COUSIN FOR RUINING MY DAY!!! THNXX <3  
@@ -293,31 +286,21 @@ thank you for all those stupid tips
 7. ![](https://secure.gravatar.com/avatar/3aa5d8a36509f53b34ce638c833ef327?s=50&d=mm&r=g)  
 Axel  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [October 29, 2019 at 12:58 am](https://tools.techidaily.com/malwarefox/products/)  
 And if your really want to be hacker what suggestion can you give??  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 8. ![](https://secure.gravatar.com/avatar/7d613d5cc6e5278cc21e01c3cf5e5f52?s=50&d=mm&r=g)  
 zoe  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [December 4, 2019 at 4:15 am](https://tools.techidaily.com/malwarefox/products/)  
 omg  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 9. ![](https://secure.gravatar.com/avatar/dcdf74014f36c156e5c21914b0983be4?s=50&d=mm&r=g)  
 Jason Freeman  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [December 12, 2019 at 6:55 pm](https://tools.techidaily.com/malwarefox/products/)  
 I wanna build a fake bank of my own  
@@ -331,18 +314,15 @@ ok can i prank my freind now
 11. ![](https://secure.gravatar.com/avatar/358584ab24672c96bf996f894ed3a289?s=50&d=mm&r=g)  
 Neginator  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [February 28, 2020 at 3:32 am](https://tools.techidaily.com/malwarefox/products/)  
 Wait the 5th one didn’t work… I send it on teams, someone help :(((
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/5f3533a4fb91dffc08793da5d32d7f5e?s=50&d=mm&r=g)  
    new HaCker  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [March 16, 2022 at 8:29 pm](https://tools.techidaily.com/malwarefox/products/)  
    check that the file is type is .bat  
@@ -415,6 +395,11 @@ I can finally be cool ,thank for the information
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/5f3533a4fb91dffc08793da5d32d7f5e?s=50&d=mm&r=g)  
    new HaCker  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [March 16, 2022 at 8:12 pm](https://tools.techidaily.com/malwarefox/products/)  
    and i can scare my friends Hahaha  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -450,19 +435,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-top-earners-on-youtube-for-2024/"><u>[Updated] Top Earners on YouTube for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apnggif/"><u>「迅速なAPNGからGIFへのアニメーション変換手順ガイド」</u></a></li>
-<li><a href="https://win-info.techidaily.com/winfrexe/"><u>解決「winfr.exe未被識別為內部或外部命令」的錯誤</u></a></li>
-<li><a href="https://win-info.techidaily.com/backing-up-windows-11-for-free-discover-the-top-3-external-hdd-techniques/"><u>Backing Up Windows 11 for Free? Discover the Top 3 External HDD Techniques!</u></a></li>
-<li><a href="https://win-info.techidaily.com/comment-retrouver-avec-aisance-vos-fichiers-insv-astuces-rapides/"><u>Comment Retrouver Avec Aisance Vos Fichiers INSV - Astuces Rapides</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/defining-tablet-leadership-the-apple-ipad-pro-11-2018-edition-in-focus/"><u>Defining Tablet Leadership: The Apple iPad Pro 11 (2018 Edition) in Focus</u></a></li>
-<li><a href="https://win-info.techidaily.com/download-free-virtual-machine-backup-tool-aomei-data-keeper/"><u>Download Free Virtual Machine Backup Tool: AOMEI Data Keeper</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/efficiently-edit-your-youtube-videos-using-sony-vegas-for-2024/"><u>Efficiently Edit Your YouTube Videos Using Sony Vegas for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/guide-pratique-comment-reparer-un-fichier-ou-repertoire-depareille-inaccessible-ou-casse-en-5-etapes-simples/"><u>Guide Pratique : Comment Réparer Un Fichier Ou Répertoire Dépareillé, Inaccessible Ou Cassé en 5 Étapes Simples</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-boosting-brand-visibility-through-instagram-videos-effective-strategies/"><u>In 2024, Boosting Brand Visibility Through Instagram Videos Effective Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-2070-driver-download-for-windows-10-8-7/"><u>Latest Geforce RTX 2070 Driver Download for Windows 10, 8, 7</u></a></li>
-<li><a href="https://win-info.techidaily.com/lost-your-application-data-heres-how-to-recover-and-restore-it/"><u>Lost Your Application Data? Here's How to Recover & Restore It!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-wi-fi-driver-update-for-atheros-devices-on-windows/"><u>Mastering Wi-Fi Driver Update for Atheros Devices on Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209968919-9781447480365-witch-covens-and-the-grand-masters-the-witches-journey-to-the-sabbat-and-the-sabbat-orgy-fantasy-and-horror-classics/"><u>Witch Covens and the Grand Masters - The Witches' Journey to the Sabbat, and the Sabbat Orgy (Fantasy and Horror Classics) | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid/"><u>[New] 2024 Approved Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-slow-motion-selecting-the-best-mobile-camera-apps/"><u>[New] Pro Slow Motion Selecting the Best Mobile Camera Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-trending-upward-selective-use-for-your-insta-posts/"><u>[Updated] Trending Upward Selective Use for Your Insta Posts</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728487343917-7/"><u>「發現電腦中已經丟失的檔案？只需要這7種簡單方法，你就能安全地回收！」</u></a></li>
+<li><a href="https://win-info.techidaily.com/1-stealthy-methods-uncovering-how-malware-secretly-infiltrates-your-computer/"><u>1. Stealthy Methods: Uncovering How Malware Secretly Infiltrates Your Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-12-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus 12 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/comment-fabriquer-une-cle-usb-de-demarrage-pour-windows-1011-guide-complet/"><u>Comment Fabriquer Une Clé USB De Démarrage Pour Windows 10/11 : Guide Complet</u></a></li>
+<li><a href="https://win-info.techidaily.com/effortless-data-backup-on-nas-devices-top-free-software-solutions/"><u>Effortless Data Backup on NAS Devices: Top Free Software Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expand-your-horizons-effective-use-of-chatgpt-in-various-languages/"><u>Expand Your Horizons: Effective Use of ChatGPT in Various Languages</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95635510-9780892546329-exploring-the-financial-universe/"><u>Exploring the Financial Universe | Free Book</u></a></li>
+<li><a href="https://win-info.techidaily.com/fixing-non-functional-autoreply-feature-in-microsoft-outlook-office-365-top-5-solutions/"><u>Fixing Non-Functional AutoReply Feature in Microsoft Outlook Office 365: Top 5 Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-poco-c65-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Poco C65 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/les-meilleurs-outils-de-transfert-de-donnee-pour-une-migration-vers-un-ssd-crucial/"><u>Les Meilleurs Outils De Transfert De Donnée Pour Une Migration Vers Un SSD Crucial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals-for-2024/"><u>Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-10-most-popular-minion-memes-that-moms-are-crazy-about-for-2024/"><u>New 10 Most Popular Minion Memes that Moms Are Crazy About for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/solutions-fur-problem-mit-windows-11-medienerstellungstool-und-nicht-erkannter-usb-festplatte/"><u>Solutions Für Problem Mit Windows 11 Medienerstellungstool Und Nicht Erkannter USB-Festplatte</u></a></li>
+<li><a href="https://win-info.techidaily.com/three-methods-for-saving-your-gmail-data-automatic-and-hand-guided-techniques/"><u>Three Methods for Saving Your Gmail Data: Automatic and Hand-Guided Techniques</u></a></li>
 </ul></div>
 
