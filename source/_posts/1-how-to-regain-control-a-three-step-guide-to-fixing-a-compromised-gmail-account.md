@@ -1,7 +1,7 @@
 ---
 title: "1. How to Regain Control: A Three-Step Guide to Fixing a Compromised Gmail Account"
-date: 2024-11-29T02:10:59.487Z
-updated: 2024-12-05T21:14:09.695Z
+date: 2024-12-05T07:37:25.280Z
+updated: 2024-12-11T21:18:17.714Z
 tags:
   - product
   - antivirus
@@ -34,10 +34,6 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 18 thoughts on “3 Steps to Recover Hacked Gmail Account”
 
 1. ![](https://secure.gravatar.com/avatar/d95773242662aadff6868b57c9660f5f?s=50&d=mm&r=g)  
@@ -54,6 +50,10 @@ What if they changed all of ur Recovery stuff.
    * ![](https://secure.gravatar.com/avatar/25e8e599aecbb4f2ec9592e51e0cd756?s=50&d=mm&r=g)  
    Isaiah Ray  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [October 28, 2018 at 7:59 am](https://tools.techidaily.com/malwarefox/products/)  
    Yeah I lost my email and they changed everything. Idk what to do either, I think the best way to get it back is to call them because it seems like they give two shits of what you reply back to them.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -65,6 +65,11 @@ What if they changed all of ur Recovery stuff.
          [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/642e7de77843a6be2dbd685b509e0148?s=50&d=mm&r=g)  
 Dianne Jove  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [July 16, 2018 at 10:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 My sons email was hack and changes everything such as pass codes and phone number how can I recover it  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -77,7 +82,7 @@ Well they have all my gmail accounts an I cannot login with recovery or anything
 [Amanda LaPlante](http://Google)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [March 20, 2019 at 6:08 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -85,6 +90,11 @@ I have no access to my account. It has been compromised and I can’t recover my
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 6. ![](https://secure.gravatar.com/avatar/a0e9a975a95c266eb68ec1f8c8716f72?s=50&d=mm&r=g)  
 Godswill  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [April 12, 2019 at 4:58 am](https://tools.techidaily.com/malwarefox/products/)  
 I have tried to recover my Google account but all efforts are in vein…I need help they changed everything even my recovery email…I need help  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -95,10 +105,6 @@ I have no access to my account. It has been compromised and I can’t recover my
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/7fa81c641941c29afba019d51c8d18c0?s=50&d=mm&r=g)  
    Rahim  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    [August 6, 2019 at 6:43 pm](https://tools.techidaily.com/malwarefox/products/)  
    I’m in the same situation. There’s nothing I can do… Did u have any luck?  
@@ -111,19 +117,11 @@ Thanks for sharing this post, I would further like to ask how to recover back pe
 9. ![](https://secure.gravatar.com/avatar/3c104d951790c1d9a25b0d5125f85336?s=50&d=mm&r=g)  
 Bhener  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [November 23, 2019 at 10:59 am](https://tools.techidaily.com/malwarefox/products/)  
 Please help I can’t still recover my Google account all privacies have been change including my number that I put on my Google account  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 10. ![](https://secure.gravatar.com/avatar/c2cc3c8746c1c0961db6786aaceee5fc?s=50&d=mm&r=g)  
 mason  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [December 26, 2019 at 11:24 pm](https://tools.techidaily.com/malwarefox/products/)  
 I can’t even touch my account because they have changed my password and security question so I can’t even get into it and Google isn’t helping with the recovery thing so I can’t even long in plus they somehow removed me from entering it help please I need this back  
@@ -132,7 +130,7 @@ I can’t even touch my account because they have changed my password and securi
 tammy jackson  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [January 6, 2020 at 9:47 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -147,21 +145,26 @@ What a joke. Passwords, recovery phone numbers have all been changed. Google is 
 13. ![](https://secure.gravatar.com/avatar/4dd0a4126dadcb0f04c4919f5e09eb15?s=50&d=mm&r=g)  
 Auwalu Surajo  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [October 7, 2021 at 6:55 pm](https://tools.techidaily.com/malwarefox/products/)  
 My account is being hacked  
 The recovery phone number and mail is being replaced. Please what do I do to gain access back?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 14. ![](https://secure.gravatar.com/avatar/0bb5978d2cf4acb6214cbeb030079951?s=50&d=mm&r=g)  
 Anonymous  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [October 22, 2021 at 11:02 pm](https://tools.techidaily.com/malwarefox/products/)  
 Obviously google don’t give a crap about its users if this crap keeps happening. Used my gmail fine yesterday and when I woke up this morning I could not access anything. Says every time that I try to recover, make a new password or literally every avenue of ways provided to change any information on it, it just keeps telling me that verification codes are being sent to a Google Authenticator that I HAVE NOT set up and my recovery email has been changed as well. They really need to get their crap together and put some better systems in against hackers if this many people are having the same exact problem. Google help says that you will get notifications if someone tries to change anything but that it pure bull because NOT ONE warning was given in advance of this situation.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 15. ![](https://secure.gravatar.com/avatar/5be4e5cf3cb0735e5281597540d7046d?s=50&d=mm&r=g)  
 Rahman  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [February 16, 2022 at 10:21 pm](https://tools.techidaily.com/malwarefox/products/)  
 Thanks  
@@ -192,19 +195,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-best-live-sound-experience-service-for-2024/"><u>[New] Best Live Sound Experience Service for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-iphone-saving-insta-pics-and-videos-for-2024/"><u>[New] IPhone Saving Insta Pics and Videos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-beginners-guide-to-iphone-screen-capture/"><u>[Updated] Beginner's Guide to iPhone Screen Capture</u></a></li>
-<li><a href="https://win-info.techidaily.com/best-practices-for-managing-your-network-adapter-disabling-vs-uninstallation-tips-by-yl-software-experts/"><u>Best Practices for Managing Your Network Adapter: Disabling vs Uninstallation - Tips by YL Software Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-tips-for-easing-4-common-chatgpt-holds/"><u>Comprehensive Tips for Easing 4 Common ChatGPT Holds</u></a></li>
-<li><a href="https://win-info.techidaily.com/ensuring-a-successful-connection-how-to-verify-your-scanners-linkage-with-your-pc-tips-from-yl-computing/"><u>Ensuring a Successful Connection: How To Verify Your Scanner's Linkage With Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208712953-how-to-fix-an-unsuccessful-torrent-file-download-expert-tips/"><u>How to Fix an Unsuccessful Torrent File Download - Expert Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-accelerated-learning-for-background-deletion-using-affinitys-toolkit/"><u>In 2024, Accelerated Learning for Background Deletion Using Affinity's Toolkit</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-detailed-guide-instastickers-your-pathway-to-musical-posting/"><u>In 2024, Detailed Guide InstaStickers – Your Pathway to Musical Posting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-users-guide-to-picture-softening-four-ways/"><u>IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
-<li><a href="https://win-info.techidaily.com/optimizing-your-hearing-experience-adjusting-volume-and-audio-preferences-in-windows-10-expertise-from-yl-software/"><u>Optimizing Your Hearing Experience: Adjusting Volume and Audio Preferences in Windows 10 - Expertise From YL Software</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/panoramic-lenses-vs-depth-filled-images/"><u>Panoramic Lenses vs Depth-Filled Images</u></a></li>
-<li><a href="https://win-info.techidaily.com/troubleshooting-tips-solving-your-scanners-blurriness-issue-a-guide-by-yl-computing/"><u>Troubleshooting Tips: Solving Your Scanner's Blurriness Issue - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-info.techidaily.com/ultra-clear-alita-battle-angel-visuals-for-pc-screensaver-and-wallpaper-collection-expertly-crafted-imagery-from-yl-software/"><u>Ultra Clear Alita: Battle Angel Visuals for PC Screensaver and Wallpaper Collection - Expertly Crafted Imagery From YL Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-adepts-compendium-of-fullscreen-insights-in-premiere-pro/"><u>[New] 2024 Approved Adept's Compendium of Fullscreen Insights in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>[New] 2024 Approved Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/du-core-definitive-learning-channels-online/"><u>[New] Edu-Core Definitive Learning Channels Online</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-unleashing-the-power-of-anthropics-smart-photo-editor/"><u>Comprehensive Review: Unleashing the Power of Anthropics Smart Photo Editor</u></a></li>
+<li><a href="https://win-info.techidaily.com/detecting-issues-with-your-driver-common-warning-indicators-and-solutions-by-yl-software/"><u>Detecting Issues with Your Driver: Common Warning Indicators and Solutions by YL Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-edit-facebook-look-back-video/"><u>In 2024, How to Edit Facebook Look Back Video</u></a></li>
+<li><a href="https://win-info.techidaily.com/resolving-printer-queue-issues-expert-tips-and-solutions-from-yl-computing/"><u>Resolving Printer Queue Issues: Expert Tips and Solutions From YL Computing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/simple-steps-to-successfully-convert-your-dvds-into-avi-files/"><u>Simple Steps to Successfully Convert Your DVDs Into AVI Files</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nova-y71-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nova Y71</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-to-running-your-pcs-hardware-check-tips-from-yl-computing/"><u>Step-by-Step Guide to Running Your PC's Hardware Check - Tips From YL Computing</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-restoring-your-windows-11-registry-with-yl-computings-tools/"><u>Step-by-Step Guide: Restoring Your Windows 11 Registry with YL Computing's Tools</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshooting-audio-issues-a-comprehensive-guide-to-identifying-and-repairing-sound-card-malfunctions-yl-computing/"><u>Troubleshooting Audio Issues: A Comprehensive Guide to Identifying & Repairing Sound Card Malfunctions - YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-dark-display-in-windows-11-falls/"><u>Troubleshooting Dark Display in Windows 11 Falls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-rated-ultralight-laptop-perfect-for-telecommuters-zdnet-insights/"><u>Ultimate Guide: Top Rated Ultralight Laptop Perfect for Telecommuters | ZDNet Insights</u></a></li>
+<li><a href="https://win-info.techidaily.com/understanding-the-connection-between-blockchain-technology-and-digital-currencies-with-yl-computing/"><u>Understanding the Connection Between Blockchain Technology & Digital Currencies with YL Computing</u></a></li>
+<li><a href="https://win-info.techidaily.com/yl-software-reveals-how-to-determine-the-version-of-your-internet-browser-easily/"><u>YL Software Reveals How To Determine The Version Of Your Internet Browser Easily</u></a></li>
 </ul></div>
 
