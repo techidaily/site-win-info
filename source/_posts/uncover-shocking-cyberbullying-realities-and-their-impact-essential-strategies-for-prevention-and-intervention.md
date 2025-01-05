@@ -1,7 +1,7 @@
 ---
 title: "Uncover Shocking Cyberbullying Realities & Their Impact: Essential Strategies for Prevention and Intervention"
-date: 2024-11-25T04:57:34.377Z
-updated: 2024-11-25T16:07:52.849Z
+date: 2024-12-29T16:07:02.212Z
+updated: 2025-01-05T16:22:28.935Z
 tags:
   - product
   - antivirus
@@ -49,7 +49,7 @@ Only 61% of youth have their privacy protection enabled in their social media ac
 [Windows 10 Privacy Issues and Fix](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Types of Cyberbullying
@@ -62,13 +62,13 @@ One of the most common forms of cyberbullying is bashing. It often happens in me
 
 Conversations and discussions can turn ugly fast. Offline harassment can spill over online. A group of bullies may target a vulnerable victim.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Gossiping
 
 The rapid exchange of information online can quickly lead to gossiping. False information can pass from one person to another. Bullies may use perceived flaws to humiliate the victim further. They may even create pages or groups to spread gossip also. It isolates the victim from his or her peers. Isolation can rapidly cause depression and anxiety.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Exposure
 
@@ -80,6 +80,10 @@ Kids and teens also reveal a bit too much online. They pass personal and intimat
 
 Not all bullies of the victims are within their age group. Bullies vary in background and intention. Children open themselves to be victims due to their online engagement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### School Bullies
 
 More often than not, bullies are from the same school of the victims. A study by Duke University shows that 90% of teens who are the victim of cyberbullying, also experience harassment offline. Bullies often create fake personas to hide behind anonymity.
@@ -87,7 +91,7 @@ More often than not, bullies are from the same school of the victims. A study by
 ![](https://malwarefox.com/wp-content/uploads/2018/02/school-signal-and-children.png "school-signal-and-children")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Some cyberbullies may attack in groups. It involves shaming or humiliation, threats, and blackmailing. Bullying may not even happen in public threads. Messaging apps are typical tools bullies use against their victims.
@@ -98,15 +102,7 @@ More insidious types of bullies are cybercriminals who aim to make a profit or e
 
 ![](https://malwarefox.com/wp-content/uploads/2017/11/hacker-1.png "hacker (1)")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Revealing intimate photos and videos are often used to scare victims. Criminals will threaten to release the pictures and videos to the victims’ family and friends. They will often ask for payment. One such case is of Daniel Perry. The [Scottish teen took his own life after being blackmailed on Skype](http://www.telegraph.co.uk/news/uknews/crime/10245809/Teenager-commited-suicide-after-being-blackmailed-on-Skype.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Effects of Cyberbullying
 
@@ -118,6 +114,10 @@ Children who are being bullied often show first signs of their overall academic 
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/kindergarten.png "kindergarten")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cyberbullying worsens the academic effects of bullying. Children and teens are known to use and various social media. In the past, they can escape attacks after school. However, social media encompasses most of their day. Dealing with cyberbullying affects their concentration and habits.
 
 ### Physical and Mental Health
@@ -126,17 +126,9 @@ Children’s mental and physical health is affected along with academic performa
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/girl-with-ponytails.png "girl-with-ponytails")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Physical health also suffers along with mental conditions. Parents often notice considerable changes in their child’s sleeping and eating habits. There is also a lack of interest in activities they used to enjoy.
 
 Mental and physical effects can have long-lasting effects. Researchers found that the victim children of cyberbullying have a high risk for depression as a young adult. It also increases depressive issues later in life.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Extreme Effects
 
@@ -144,13 +136,13 @@ Suicide is one of the leading cause of death among young people. There are about
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/man-on-a-chair-before-suicide-with-a-hanging-rope.png "man-on-a-chair-before-suicide-with-a-hanging-rope")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Being bullied and bullying also affects teen behavior towards alcoholism and drug use. Additionally, it can result in delinquent acts. It may include vandalism, abusive behavior, and even criminal activities.
 
 [Fake Tech Support Scams - How to Protect Yourself](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect your Kids from Cyberbullying
 
@@ -160,17 +152,21 @@ Constant communication is a critical element in protecting your child. They shou
 
 Educating your child is also important. Technology is complicated to manage even for adults. Teach them how to protect themselves. It includes an understanding of privacy, security, and possible threats.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Privacy and Passwords
 
 Encourage your children to employ strong passwords in their online accounts. Their privacy should be one of their top concerns. Teach them how to create a secure password. You can even enable two-factor authentication.Hacking one’s social media can open your child to cyberbullying.
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/padlock-1.png "padlock (1)")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Additionally, educate them about clean online habits. Log-out of any online accounts when not in use. Encourage empathy and logic when posting on social media. Make them understand that their actions have significant effects on others.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn On Parental Controls
 
@@ -187,6 +183,10 @@ Be on the lookout for any significant changes in your child. Signs are typically
 It is essential to gather information if you suspect cyberbullying. You should report instances to the school. It is also possible to get the authorities’ attention depending on the severity.
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2017/06/warning.png "warning")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Ultimate Guide to Parental Controls](https://tools.techidaily.com/malwarefox/products/)
 
@@ -219,24 +219,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-covert-snapcapture-stealthy-tactics-for-unseen-picture-recording/"><u>[New] 2024 Approved Covert SnapCapture Stealthy Tactics for Unseen Picture Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-teaching-trends-top-10-innovative-audio-visual-recording-tools/"><u>[New] 2024 Approved Teaching Trends Top 10 Innovative Audio-Visual Recording Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-what-to-do-if-the-facebook-message-shows-its-you-in-this-video/"><u>[New] 2024 Approved What To Do If the Facebook Message Shows It’s You in This Video?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-instagrams-vertical-vortex-sideways-media-mystery/"><u>[Updated] In 2024, Instagram's Vertical Vortex Sideways Media Mystery</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-unraveled-enhancing-mental-wellness/"><u>2024 Approved ASMR Unraveled Enhancing Mental Wellness</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728502346207-aomei-fonebackupios/"><u>如何通过AOMEI FoneBackup传输iOS设备指定相册中的照片</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-1187norton-ghostusb/"><u>如何在Windows 11/8/7系统中制作Norton Ghost的可启动USB，步骤分享两种方式</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cliquez-pour-des-tutoriels-simples-5-techniques-denregistrement-decran-musicaux-sur-mac-par-movavi/"><u>Cliquez Pour Des Tutoriels Simples - 5 Techniques D'enregistrement D'écran Musicaux Sur Mac Par Movavi!</u></a></li>
-<li><a href="https://win-info.techidaily.com/guida-completa-scelta-del-solitario-e-gratuito-software-clonato-per-windows-11/"><u>Guida Completa: Scelta Del Solitario E Gratuito Software Clonato per Windows 11</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-camon-20-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 20 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A25 5G?</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-create-a-system-restore-point-on-windows-11-10-8-or-7-for-easy-recovery/"><u>How to Create a System Restore Point on Windows 11, 10, 8, or 7 for Easy Recovery</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-c110-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia C110 Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>In 2024, Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
-<li><a href="https://win-info.techidaily.com/reclaim-lost-files-the-ifind-pro-raid-recovery-suite-safe-and-secure-retrieval-of-raid-015-data/"><u>Reclaim Lost Files: The iFind Pro RAID Recovery Suite - Safe and Secure Retrieval of Raid 0/1/5 Data</u></a></li>
-<li><a href="https://win-info.techidaily.com/securing-multiple-drives-on-windows-11-a-comprehensive-guide/"><u>Securing Multiple Drives on Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-info.techidaily.com/vcenter-management-tutorial-how-to-set-upteardown-virtual-machine-registration/"><u>VCenter Management Tutorial: How to Set Up/Teardown Virtual Machine Registration</u></a></li>
-<li><a href="https://win-info.techidaily.com/wie-sie-einen-bootloader-fur-windows-11-uber-rufus-erstellen-konnen-anleitung-zur-herstellung-einer-uefi-kompatiblen-usb-festplatte/"><u>Wie Sie Einen Bootloader Für Windows 11 Über Rufus Erstellen Können – Anleitung Zur Herstellung Einer UEFI Kompatiblen USB-Festplatte</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-111087-c-ssd/"><u>Windows 11・10・8・7用の最もシンプルな Cドライブ SSDへの変更手順</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-a-creators-guide-to-understanding-youtube-policies/"><u>[New] 2024 Approved A Creator’s Guide to Understanding YouTube Policies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-leading-least-expensive-stock-images-online/"><u>[Updated] 2024 Approved Leading Least Expensive Stock Images Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-iphone-photography-during-video/"><u>[Updated] Seamless iPhone Photography During Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-experts-method-for-timestamping-your-youtube-videos-for-2024/"><u>[Updated] The Expert's Method for Timestamping Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/autodraw-dateien-wiederherstellen-nicht-gespeichert-oder-geloscht/"><u>Autodraw Dateien Wiederherstellen - Nicht Gespeichert Oder Gelöscht</u></a></li>
+<li><a href="https://win-info.techidaily.com/cara-sinkronisasi-data-di-antara-komputer-anda-menggunakan-reteks-internet/"><u>Cara Sinkronisasi Data Di Antara Komputer Anda Menggunakan Reteks (Internet)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/criando-screenshots-parciais-no-windows-11-passo-a-passo-detalhado/"><u>Criando Screenshots Parciais No Windows 11 - Passo a Passo Detalhado</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-tool-convert-wmv-audio-files-to-mp3-format-by-movavi/"><u>Free Online Tool: Convert WMV Audio Files to MP3 Format by Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pruveeo-f5-dash-camera-review-exceptional-value-at-high-definition-prices/"><u>Pruveeo F5 Dash Camera Review: Exceptional Value at High Definition Prices</u></a></li>
+<li><a href="https://win-info.techidaily.com/restoring-onekey-recovery-capabilities-post-partition-resize-a-comprehensive-guide/"><u>Restoring OneKey Recovery Capabilities Post-Partition Resize - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
 </ul></div>
 

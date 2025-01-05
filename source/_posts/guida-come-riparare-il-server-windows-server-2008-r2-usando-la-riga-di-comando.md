@@ -1,7 +1,7 @@
 ---
 title: "Guida: Come Riparare Il Server Windows Server 2008 R2 Usando La Riga Di Comando"
-date: 2024-12-08T20:55:51.290Z
-updated: 2024-12-12T07:38:46.409Z
+date: 2024-12-30T16:19:21.690Z
+updated: 2025-01-05T16:16:37.220Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3f3f6a2e608d839212aa9eeb.jpg
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
@@ -27,10 +31,6 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -46,6 +46,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10](https://tools.techidaily.com/ubackup/products/)
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Introduzione
 
@@ -73,10 +77,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -96,7 +96,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -117,6 +117,10 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -134,10 +138,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -179,6 +179,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -199,6 +203,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -213,10 +221,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -224,10 +228,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -252,7 +252,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -280,15 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-pixel-perfect-fun-unveiling-the-secrets-of-snapchats-filters/"><u>[New] Pixel Perfect Fun Unveiling the Secrets of Snapchat's Filters</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-closer-look-techniques-for-minecraft-exploration/"><u>[Updated] In 2024, Closer Look Techniques for Minecraft Exploration</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-pewdiepies-annual-net-worth/"><u>[Updated] Understanding PewDiePie's Annual Net Worth</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-inshots-playlist-prowess-adding-external-music/"><u>2024 Approved InShot's Playlist Prowess Adding External Music</u></a></li>
-<li><a href="https://win-info.techidaily.com/analyzing-how-the-taiping-rebellion-reshaped-chinese-society-a-study-by-yl-computing-yl-software-solutions/"><u>Analyzing How the Taiping Rebellion Reshaped Chinese Society - A Study by YL Computing | YL Software Solutions</u></a></li>
-<li><a href="https://win-info.techidaily.com/exploring-the-windows-control-panels-diverse-categories-insights-from-yl-computings-deep-dive-into-system-settings-management/"><u>Exploring the Windows Control Panel's Diverse Categories: Insights From YL Computing's Deep Dive Into System Settings Management</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/resizing-imagery-on-iphone-without-hassle-for-2024/"><u>Resizing Imagery on iPhone Without Hassle for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-adjusting-your-pcs-display-settings-via-windows-control-panel-insights-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your PC's Display Settings via Windows Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://win-info.techidaily.com/troubleshooting-your-scanners-invisibility-solutions-when-it-wont-appear-in-scangear-or-similar-programs-tips-from-yl-computing/"><u>Troubleshooting Your Scanner's Invisibility: Solutions When It Won't Appear in ScanGear or Similar Programs - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-digital-marketing-the-power-of-youtube-keywords/"><u>[New] 2024 Approved Deciphering Digital Marketing The Power of YouTube Keywords</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-episode-excellence-optimal-launch-windows-for-2024/"><u>[New] Episode Excellence Optimal Launch Windows for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-sites-for-selecting-storied-soundtracks/"><u>[Updated] Superior Sites for Selecting Storied Soundtracks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-infinix-note-30-vip-racing-edition-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Infinix Note 30 VIP Racing Edition PC | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/dealing-with-a-lazy-mouse-effective-solutions-for-non-responsive-mice-by-yl-software-specialists/"><u>Dealing with a Lazy Mouse: Effective Solutions for Non-Responsive Mice by YL Software Specialists</u></a></li>
+<li><a href="https://win-info.techidaily.com/expert-advice-easily-launch-command-prompt-within-microsoft-windows-operating-system-yl-software-solutions/"><u>Expert Advice: Easily Launch Command Prompt Within Microsoft Windows Operating System - YL Software Solutions</u></a></li>
+<li><a href="https://win-info.techidaily.com/fix-your-scanner-pc-connection-issues-with-easy-solutions-from-yl-software-experts/"><u>Fix Your Scanner-PC Connection Issues with Easy Solutions From YL Software Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-ace-2v-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus Ace 2V Phone?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-the-art-of-youtube-viewership-6-proven-methods-for-2024/"><u>Mastering the Art of YouTube Viewership 6 Proven Methods for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-implements-e2e-encryption-postpone-details-behind-extension-to-23/"><u>Meta Implements E2E Encryption Postpone: Details Behind Extension to '23</u></a></li>
+<li><a href="https://win-info.techidaily.com/overcoming-non-responsive-pc-issues-expert-advice-by-yl-software-experts/"><u>Overcoming Non-Responsive PC Issues: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-info.techidaily.com/renaming-files-successfully-a-guide-by-yl-computing/"><u>Renaming Files Successfully: A Guide by YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-strategies-for-locating-individuals-on-facebook/"><u>Simple Strategies for Locating Individuals on Facebook</u></a></li>
+<li><a href="https://win-info.techidaily.com/solving-your-printers-sound-issues-during-print-sessions-insights-from-yl-computing-and-yl-software-experts/"><u>Solving Your Printer's Sound Issues During Print Sessions - Insights From YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-setting-up-your-own-cryptocurrency-wallet-with-yl-software-solutions/"><u>Step-by-Step Guide: Setting Up Your Own Cryptocurrency Wallet with YL Software Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-2-amanahi-data-samsung-ssd-rencana-pemulihan-andal/"><u>Top 2 Amanahi Data Samsung SSD: Rencana Pemulihan Andal!</u></a></li>
+<li><a href="https://win-info.techidaily.com/understanding-the-consequences-for-chinese-citizamoins-during-the-1937-1945-conflict-with-japan-yl-software/"><u>Understanding the Consequences for Chinese Citizamoins During the 1937-1945 Conflict with Japan - YL Software</u></a></li>
 </ul></div>
 
