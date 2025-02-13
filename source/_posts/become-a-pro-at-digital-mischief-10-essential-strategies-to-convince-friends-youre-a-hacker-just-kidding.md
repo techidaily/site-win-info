@@ -1,7 +1,7 @@
 ---
 title: "Become a Pro at Digital Mischief: 10 Essential Strategies to Convince Friends You're a Hacker (Just Kidding!)"
-date: 2025-01-27T18:23:19.591Z
-updated: 2025-01-31T17:44:59.662Z
+date: 2025-02-07T18:17:48.540Z
+updated: 2025-02-13T06:54:50.353Z
 tags:
   - product
   - antivirus
@@ -70,6 +70,10 @@ A pop-up message stating “Access Granted” will be displayed on the screen. Y
 
 [Why You Shouldn’t Buy Identity Theft Protection?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Change the Command Prompt Color for the Whole Hacker Feel
 
 Have you ever seen the hackers in movies? The ones wearing ski masks typing gibberish codes in green color? Yes, that’s precisely how your friends have seen it too.
@@ -83,10 +87,6 @@ For changing the color, run the command prompt and type
 Hit enter and select the number of Green colors. Alternately, you can also try other colors of your choice to pass off as a valid hacker in your group.
 
 ![Change the Command Prompt Color for the Whole Hacker Feel](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2017/12/green-terminal-window.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Trick Them with Chrome Passwords
 
@@ -106,10 +106,6 @@ As you know, passwords are hidden by default. If your friends have entered a pas
 
 This method is one of the best ways to look like a professional hacker using modern browsers including Chrome, Safari, and Firefox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Shutdown your Friend’s PC with your Custom Message
 
 Here’s a brief code you can write on the notepad to shut down your friend’s PC without them knowing. Using this method, you can easily trick them into believing you have hacked their system.
@@ -124,10 +120,6 @@ msg * I told you not to mess with me!`
 Now, save this file as **myvirus.bat**
 
 Your first virus made in notepad is ready!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Deploy Keylogger Software on your Friend’s Phone or PC
 
@@ -192,6 +184,10 @@ Thanks for featuring my website!
    * ![](https://secure.gravatar.com/avatar/f85126a9463af3d5b823737a70cb3e68?s=50&d=mm&r=g)  
    Logan Nagorski  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [July 13, 2018 at 11:03 pm](https://tools.techidaily.com/malwarefox/products/)  
    I go to see everyday a few web sites and blogs to read articles, but this weblog provides feature based writing.|  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -220,10 +216,6 @@ Thanks for featuring my website!
    * ![](https://secure.gravatar.com/avatar/02914536e85c92fe10e7cbb6d8ee4a8b?s=50&d=mm&r=g)  
    Ava Fronstin  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    [March 25, 2021 at 11:15 pm](https://tools.techidaily.com/malwarefox/products/)  
    Just wondering if i do the shut down prank on my sisters computer it will turn back on right?  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -236,11 +228,19 @@ Thanks for featuring my website!
    * ![](https://secure.gravatar.com/avatar/e51c9a213c2bc00d3e6ee41bd8985c3f?s=50&d=mm&r=g)  
    Emerald  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [December 13, 2021 at 6:44 pm](https://tools.techidaily.com/malwarefox/products/)  
    OMG THIS IS THE BEST!! I FINALLY GOT REVENGE ON MY COUSIN FOR RUINING MY DAY!!! THNXX <3  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
          * ![](https://secure.gravatar.com/avatar/96c2de695d69b34d45a8fe683a264491?s=50&d=mm&r=g)  
          Akshita bhatia  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
          [February 14, 2022 at 12:09 pm](https://tools.techidaily.com/malwarefox/products/)  
          my brother also ruined my day I will get revenge on him. hehehe  
@@ -254,15 +254,15 @@ thank you so much for to helping me hack and scare my friends, now they think I�
 3. ![](https://secure.gravatar.com/avatar/bcb730943fcf27112494d57541ab0d8c?s=50&d=mm&r=g)  
 britany#Hacker  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [March 26, 2019 at 2:30 pm](https://tools.techidaily.com/malwarefox/products/)  
 lol loved the notepad one made one and emailed it to my teacher totaly killed their PC, got into a bit of trouble tho  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 4. ![](https://secure.gravatar.com/avatar/e59b633f310fec93b48c36f6105c9e23?s=50&d=mm&r=g)  
 Project Zorgo  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [May 8, 2019 at 2:27 am](https://tools.techidaily.com/malwarefox/products/)  
 i love the first one i like it i even scared my dad  
@@ -293,10 +293,6 @@ omg
 9. ![](https://secure.gravatar.com/avatar/dcdf74014f36c156e5c21914b0983be4?s=50&d=mm&r=g)  
 Jason Freeman  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [December 12, 2019 at 6:55 pm](https://tools.techidaily.com/malwarefox/products/)  
 I wanna build a fake bank of my own  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -315,6 +311,10 @@ Wait the 5th one didn’t work… I send it on teams, someone help :(((
    * ![](https://secure.gravatar.com/avatar/5f3533a4fb91dffc08793da5d32d7f5e?s=50&d=mm&r=g)  
    new HaCker  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [March 16, 2022 at 8:29 pm](https://tools.techidaily.com/malwarefox/products/)  
    check that the file is type is .bat  
     then copy the code  
@@ -329,7 +329,7 @@ omg i scared mom and dad and my teacher and hacked their pc
 porter Mullins  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [March 28, 2020 at 1:37 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -345,7 +345,7 @@ My friends think i can hack now now so cool!!!!
 vichhedaleng  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [April 29, 2020 at 11:43 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -378,15 +378,15 @@ msg\* I told you not to mess with me
 19. ![](https://secure.gravatar.com/avatar/af46af20e0668e8501ec1934438f6114?s=50&d=mm&r=g)  
 JOHN  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [February 2, 2022 at 1:18 am](https://tools.techidaily.com/malwarefox/products/)  
 hi  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 20. ![](https://secure.gravatar.com/avatar/c38c5c39c39c2f2f05ceea3c01567b4a?s=50&d=mm&r=g)  
 URMOM  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [February 4, 2022 at 4:53 am](https://tools.techidaily.com/malwarefox/products/)  
 OMG this hacking tip is soo cool i scared my friends with it and they were like screamming crazy  
@@ -400,7 +400,7 @@ I love these things when I grow up I’ve always wanted to be a real life hacker
 new HaCker  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [March 16, 2022 at 8:11 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -445,18 +445,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-most-innovative-arvr-iphoneandroid-apps/"><u>[Updated] Most Innovative AR/VR iPhone/Android Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-the-open-box-phenomenon/"><u>2024 Approved Innovating the Open-Box Phenomenon</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-development-with-these-6-premier-ai-chat-extensions-on-visual-studio-code/"><u>Boost Your Development with These 6 Premier AI Chat Extensions on Visual Studio Code</u></a></li>
-<li><a href="https://win-info.techidaily.com/comment-configurer-un-script-de-copie-en-toute-seule-main-dans-windows-11/"><u>Comment Configurer Un Script De Copie en Toute Seule Main Dans Windows 11 ?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuit-convertissez-vos-fichiers-mts-en-mp4-avec-ces-3-methodes-facilement/"><u>Gratuit Convertissez Vos Fichiers MTS en MP4 Avec Ces 3 Méthodes Facilement</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lava Phones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-link-trimming-winners-select-the-top-5-apps/"><u>In 2024, Youtube's Link-Trimming Winners Select the Top 5 Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-ppt-presentation-in-google-meet-mobile-and-laptop-for-2024/"><u>Mastering PPT Presentation in Google Meet (Mobile & Laptop) for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/non-riusciamo-a-trovare-la-tua-pagina-web-codice-di-errore-404/"><u>Non Riusciamo a Trovare La Tua Pagina Web (Codice Di Errore #404)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-<li><a href="https://win-info.techidaily.com/techniques-for-retrieving-unintentionally-deleted-files-in-photoshop/"><u>Techniques for Retrieving Unintentionally Deleted Files in Photoshop</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-truth-about-magix-video-pro-xs-performance-for-2024/"><u>The Truth About Magix Video Pro X's Performance for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/top-4-methodes-gratuites-pour-sauvegarde-de-windows-11-fichiers-et-systemes/"><u>Top 4 Méthodes Gratuites Pour Sauvegarde De Windows 11 : Fichiers Et Systèmes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-uncomplicated-approach-for-smooth-iphone-screening/"><u>[New] 2024 Approved Uncomplicated Approach for Smooth Iphone Screening</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-aerial-shots-quality-test-mi-drone-4k-edition/"><u>[New] Aerial Shots Quality Test - Mi Drone 4K Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/con-and-logo-inspiration-the-top-6-website-roundup/"><u>[New] Icon & Logo Inspiration The Top 6 Website Roundup</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ice-artistry-at-the-2022-winter-games/"><u>[Updated] 2024 Approved Ice Artistry at the 2022 Winter Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-decode-the-digital-dollar-with-youtube-an-effective-triple-step-method-for-income-analysis/"><u>[Updated] In 2024, Decode the Digital Dollar with YouTube An Effective Triple Step Method for Income Analysis</u></a></li>
+<li><a href="https://win-info.techidaily.com/acasis-nvme-ssd/"><u>Acasis NVMe SSD クローニング手順: 最も効率的な安全なコピー方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-resources-to-explore-for-personalized-text-enhancements-online/"><u>Best Resources to Explore for Personalized Text Enhancements Online</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-overcome-acronis-true-image-stalling-issues-while-performing-clone-operations/"><u>How to Overcome Acronis True Image Stalling Issues While Performing Clone Operations</u></a></li>
+<li><a href="https://win-info.techidaily.com/notice-unable-to-locate-the-requested-online-document-http-404/"><u>Notice: Unable to Locate the Requested Online Document (HTTP 404)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/"><u>Quick Tips for iPhones Screen Recording for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/reviving-lost-files-solutions-for-non-booting-computers-with-myrecover-assistance/"><u>Reviving Lost Files: Solutions for Non-Booting Computers with MyRecover Assistance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionize-visual-content-leading-montage-tools-for-phones-for-2024/"><u>Revolutionize Visual Content Leading Montage Tools for Phones for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-ultimate-guide-to-performing-a-hard-reboot-on-your-msi-notebook/"><u>The Ultimate Guide to Performing a Hard Reboot on Your MSI Notebook</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-rated-tools-para-copia-de-disco-ssd-tobis-en-sistemas-operativos-windows-versiones-11-y-anteriores/"><u>Top Rated Tools Para Cópia De Disco SSD Tobis en Sistemas Operativos Windows - Versiones 11 Y Anteriores</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-tom-dissects-and-discusses-cutting-edge-hardware/"><u>Unveiling Tech Secrets: Tom Dissects and Discusses Cutting-Edge Hardware</u></a></li>
 </ul></div>
 
