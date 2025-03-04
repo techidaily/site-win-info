@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming Common Issues with Plugging in a USB Flash Drive"
-date: 2025-02-11T17:59:16.163Z
-updated: 2025-02-13T03:11:43.430Z
+date: 2025-03-01T21:08:29.858Z
+updated: 2025-03-04T00:08:18.575Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e3882be4cc44ae2eb5b5e3f9c4a.jpg
@@ -18,27 +18,15 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,19 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-behind-the-scenes-insights-for-instagram-story-audience/"><u>[Updated] 2024 Approved Behind the Scenes Insights for Instagram Story Audience</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-flicks-grabber-tool/"><u>[Updated] 2024 Approved FB Flicks Grabber Tool</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-heaviest-inflight-lifters-unveiled-top-10-list/"><u>[Updated] 2024 Approved Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
-<li><a href="https://win-info.techidaily.com/adjust-your-pcs-energy-consumption-alter-power-configurations-in-control-panel-with-yl-software-expertise/"><u>Adjust Your PC's Energy Consumption: Alter Power Configurations in Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://win-info.techidaily.com/capture-the-spirit-of-the-game-with-yls-authentic-rangers-fc-stadium-graphics-and-desktop-backgrounds/"><u>Capture the Spirit of the Game with YL's Authentic Rangers FC Stadium Graphics and Desktop Backgrounds</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-newest-hp-deskjet-ink-advantage-3755-all-in-one-printer-drivers-for-windows-101187/"><u>Download the Newest HP DeskJet Ink Advantage 3755 All-in-One Printer Drivers for Windows 10/11/8/7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nokia-c110-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nokia C110 Phone Screen?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-mpow-bluetooth-driver-on-windows-11-8-or-7/"><u>How to Update Your MPOW Bluetooth Driver on Windows 11, 8 or 7</u></a></li>
-<li><a href="https://win-info.techidaily.com/master-the-art-of-crypto-preservation-top-tips-by-yl-computings-specialists-yl-software/"><u>Master the Art of Crypto Preservation: Top Tips by YL Computing's Specialists | YL Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/persistent-screen-recording-device-for-2024/"><u>Persistent Screen Recording Device for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-successfully-adding-and-configuring-new-pc-hardware-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Successfully Adding and Configuring New PC Hardware in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-info.techidaily.com/troubleshooting-persistent-overheating-issues-on-your-pc-expert-advice-from-yl-computing/"><u>Troubleshooting Persistent Overheating Issues on Your PC: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/wu-and-orchestrator-the-pillars-of-update-routine/"><u>WU & Orchestrator: The Pillars of Update Routine</u></a></li>
-<li><a href="https://win-info.techidaily.com/yl-software-review-discover-the-ideal-tools-to-access-and-manipulate-microsoft-excel-documents/"><u>YL Software Review: Discover the Ideal Tools to Access & Manipulate Microsoft Excel Documents</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-the-perfect-voice-and-vision-for-docs/"><u>[New] Crafting the Perfect Voice and Vision for Docs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/recision-playback-aligning-video-views-in-real-time/"><u>[New] Precision Playback Aligning Video Views in Real-Time</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-efficient-strategies-to-document-your-google-meeting-sessions/"><u>[Updated] Efficient Strategies to Document Your Google Meeting Sessions</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728479722269-iphone/"><u>如何使用特定方法找回已经在iPhone上被永久删除的照片？</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-tech-best-gamer-mothers-on-a-dime/"><u>Affordable Tech: Best Gamer Mothers on a Dime</u></a></li>
+<li><a href="https://win-info.techidaily.com/ai-personal-computers-unveiled-making-an-informed-decision-on-purchasing/"><u>AI Personal Computers Unveiled - Making an Informed Decision on Purchasing</u></a></li>
+<li><a href="https://win-info.techidaily.com/convert-and-save-your-favorite-shows-from-arte-plus-7-as-mp4-mov-or-avi-files-using-a-simple-tool/"><u>Convert and Save Your Favorite Shows From ARTE + 7 as MP4, MOV or AVI Files Using a Simple Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-anthem-pause-simple-steps/"><u>Eliminate Anthem Pause: Simple Steps</u></a></li>
+<li><a href="https://win-info.techidaily.com/exploring-splash-version-20-enhanced-capabilities-unveiled/"><u>Exploring Splash Version 2.0: Enhanced Capabilities Unveiled</u></a></li>
+<li><a href="https://win-info.techidaily.com/from-humor-to-harsh-facts-how-microsofts-team-jokes-reflected-deeper-challenges-insights-from-zdnet/"><u>From Humor to Harsh Facts: How Microsoft’s Team Jokes Reflected Deeper Challenges - Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy S23 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>In 2024, Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
+<li><a href="https://facebook.techidaily.com/leadership-and-division-the-top-6-in-tech-world/"><u>Leadership and Division: The Top 6 in Tech World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/macsierras-top-picks-for-dvd-creation-software-for-2024/"><u>MacSierra’s Top Picks for Dvd Creation Software for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/mastering-the-art-of-live-game-streams-on-twitch-tv-with-an-easy-tutorial/"><u>Mastering the Art of Live Game Streams on Twitch TV with an Easy Tutorial</u></a></li>
+<li><a href="https://win-info.techidaily.com/mastering-your-device-in-depth-instructional-handbook-and-user-manual/"><u>Mastering Your Device: In-Depth Instructional Handbook and User Manual</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshoot-catch-video-malfunctions-effective-fixes-for-pc-mac-and-windows-users/"><u>Troubleshoot Catch Video Malfunctions: Effective Fixes for PC, MAC & Windows Users</u></a></li>
+<li><a href="https://win-info.techidaily.com/ultimate-walkthrough-on-how-to-start-using-mirallis-action-today/"><u>Ultimate Walkthrough on How to Start Using Mirallis Action Today!</u></a></li>
+<li><a href="https://win-info.techidaily.com/xfinity-movie-streamer-effortless-film-downloads-from-xfinity-onto-your-pc-or-laptop/"><u>Xfinity Movie Streamer: Effortless Film Downloads From Xfinity Onto Your PC or Laptop</u></a></li>
 </ul></div>
 

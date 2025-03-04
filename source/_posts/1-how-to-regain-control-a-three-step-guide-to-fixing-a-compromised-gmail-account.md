@@ -1,7 +1,7 @@
 ---
 title: "1. How to Regain Control: A Three-Step Guide to Fixing a Compromised Gmail Account"
-date: 2025-02-11T17:00:52.006Z
-updated: 2025-02-12T20:16:41.609Z
+date: 2025-03-01T22:28:49.558Z
+updated: 2025-03-03T18:14:11.252Z
 tags:
   - product
   - antivirus
@@ -63,10 +63,6 @@ What if they changed all of ur Recovery stuff.
 3. ![](https://secure.gravatar.com/avatar/642e7de77843a6be2dbd685b509e0148?s=50&d=mm&r=g)  
 Dianne Jove  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [July 16, 2018 at 10:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 My sons email was hack and changes everything such as pass codes and phone number how can I recover it  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -91,19 +87,11 @@ I have tried to recover my Google account but all efforts are in vein…I need h
 7. ![](https://secure.gravatar.com/avatar/1fb321d895a8e50934fed3390667cfdb?s=50&d=mm&r=g)  
 REBEKAH COLEMAN FAIR  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [April 24, 2019 at 9:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 I have no access to my account. It has been compromised and I can’t recover my account! What do I do????!!!! Is there a number to Google I can call??h I lost my email and they changed everything. Idk what to do either, I think the best way to get it back is to call them because it seems like they give two shits of what you reply back to them.Well they have all my gmail accounts an I cannot login with recovery or anything. My android has been hard reset so lost everything as hacked an my phone number I changed so what can I do now. I want all my google photos back  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/7fa81c641941c29afba019d51c8d18c0?s=50&d=mm&r=g)  
    Rahim  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    [August 6, 2019 at 6:43 pm](https://tools.techidaily.com/malwarefox/products/)  
    I’m in the same situation. There’s nothing I can do… Did u have any luck?  
@@ -111,19 +99,11 @@ I have no access to my account. It has been compromised and I can’t recover my
 8. ![](https://secure.gravatar.com/avatar/b595f42fe335f9819ebc0ae2e1986af1?s=50&d=mm&r=g)  
 david abbey  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [July 25, 2019 at 9:56 am](https://tools.techidaily.com/malwarefox/products/)  
 Thanks for sharing this post, I would further like to ask how to recover back personal data and avoid it from misuse.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 9. ![](https://secure.gravatar.com/avatar/3c104d951790c1d9a25b0d5125f85336?s=50&d=mm&r=g)  
 Bhener  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [November 23, 2019 at 10:59 am](https://tools.techidaily.com/malwarefox/products/)  
 Please help I can’t still recover my Google account all privacies have been change including my number that I put on my Google account  
@@ -143,10 +123,6 @@ my phone was stolen and now ALL my accounts are hacked!! I can’t get into my g
 12. ![](https://secure.gravatar.com/avatar/38be50dec8839ed49f7edb7976b60dbd?s=50&d=mm&r=g)  
 Patrick D Schoeffler  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [May 14, 2021 at 9:39 pm](https://tools.techidaily.com/malwarefox/products/)  
 What a joke. Passwords, recovery phone numbers have all been changed. Google is ZERO help. This is my companies information, and I need it. I have not found ANY WAY to recover an account I have had with them for well over 10 years. Bottom line is I will NEVER EVER have another gmail account. No Google account or anything affiliated WITH Google. a shift to Firefox and an email change to someone other than Google. And to think I trusted these people with my information? Unethical if not downright illegal. Shame on Google.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -165,10 +141,6 @@ Obviously google don’t give a crap about its users if this crap keeps happenin
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 15. ![](https://secure.gravatar.com/avatar/5be4e5cf3cb0735e5281597540d7046d?s=50&d=mm&r=g)  
 Rahman  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [February 16, 2022 at 10:21 pm](https://tools.techidaily.com/malwarefox/products/)  
 Thanks  
@@ -199,20 +171,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>[New] 2024 Approved Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boosting-user-interaction-mastering-hashtag-use-on-instagram/"><u>[Updated] In 2024, Boosting User Interaction Mastering Hashtag Use on Instagram</u></a></li>
-<li><a href="https://win-info.techidaily.com/uefigptssd/"><u>「高効率で安全：UEFI/GPTフォーマットのSSDへの完全なクローニング手順」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activatedarkinterfaceinnotepadwinoses/"><u>ActivateDarkInterfaceInNotepadWinOSes</u></a></li>
-<li><a href="https://win-info.techidaily.com/comment-effacer-votre-historique-de-sauvegarde-sur-windows-10/"><u>Comment Effacer Votre Historique De Sauvegarde Sur Windows 10?</u></a></li>
-<li><a href="https://win-info.techidaily.com/detaillierte-tipps-und-tricks-um-ihren-windows-datentrager-zu-loschen-ohne-dabei-wichtige-informationen-zu-verlieren/"><u>Detaillierte Tipps Und Tricks, Um Ihren Windows-Datenträger Zu Löschen Ohne Dabei Wichtige Informationen Zu Verlieren</u></a></li>
-<li><a href="https://win-info.techidaily.com/fehlerbehebung-fur-unzugangliche-upgrade-optionen-in-windows-11/"><u>Fehlerbehebung Für Unzugängliche Upgrade-Optionen in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-sea-of-thieves-game-crash-problems-easily/"><u>Fixing the Sea of Thieves Game Crash Problems Easily</u></a></li>
-<li><a href="https://win-info.techidaily.com/guia-paso-a-paso-para-realizar-copias-de-seguridad-incrementales-y-diferenciales-en-windows-11-mejoras-respecto-a-versiones-anteriores/"><u>Guía Paso a Paso Para Realizar Copias De Seguridad Incrementales Y Diferenciales en Windows 11: Mejoras Respecto a Versiones Anteriores</u></a></li>
-<li><a href="https://win-info.techidaily.com/guide-complet-comment-transferer-des-images-de-votre-iphone-a-un-ordinateur-via-bluetooth/"><u>Guide Complet: Comment Transférer Des Images De Votre iPhone À Un Ordinateur via Bluetooth</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-music-recovery-recover-deleted-music-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>Motorola Razr 40 Ultra Music Recovery - Recover Deleted Music from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>New In 2024, Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
-<li><a href="https://win-info.techidaily.com/pasos-faciles-para-iniciar-sesion-en-windows-n-de-lenovo-usando-un-dispositivo-usb/"><u>Pasos Fáciles Para Iniciar Sesión en Windows N De Lenovo Usando Un Dispositivo USB</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-overcoming-failed-rpc-in-windows/"><u>The Ultimate Guide to Overcoming Failed RPC in Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-7-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 7 Without Passcode Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simplicity-in-capturing-your-lenovo-pics/"><u>[New] 2024 Approved Simplicity in Capturing Your Lenovo Pics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unmissable-worlds-that-define-gaming/"><u>[New] In 2024, Unmissable Worlds That Define Gaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-swift-shots-on-iphone-time-lapse-recording-guide/"><u>[New] Swift Shots on iPhone Time-Lapse Recording Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-activate-funimate-pro-with-a-simple-apk-click/"><u>2024 Approved Activate Funimate Pro with a Simple APK Click</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728505617150-win11/"><u>解決 Win11 磁碟分割區錯誤的修復方法</u></a></li>
+<li><a href="https://win-info.techidaily.com/autodraw-dateien-wiederherstellen-nicht-gespeichert-oder-geloscht/"><u>Autodraw Dateien Wiederherstellen - Nicht Gespeichert Oder Gelöscht</u></a></li>
+<li><a href="https://win-info.techidaily.com/cara-sinkronisasi-data-di-antara-komputer-anda-menggunakan-reteks-internet/"><u>Cara Sinkronisasi Data Di Antara Komputer Anda Menggunakan Reteks (Internet)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-bridging-language-gaps-with-translated-subs-in-igtv/"><u>In 2024, Bridging Language Gaps with Translated Subs in IGTV</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-leading-5-online-title-masters-revealed/"><u>In 2024, Leading 5 Online Title Masters Revealed</u></a></li>
+<li><a href="https://win-info.techidaily.com/mastering-esim-migration-a-comprehensive-tutorial-for-upgrading-to-iphone-1514/"><u>Mastering eSIM Migration: A Comprehensive Tutorial for Upgrading to iPhone 15/14</u></a></li>
+<li><a href="https://win-info.techidaily.com/restoring-onekey-recovery-capabilities-post-partition-resize-a-comprehensive-guide/"><u>Restoring OneKey Recovery Capabilities Post-Partition Resize - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-with-these-expert-soft-restart-techniques/"><u>Revitalize Your iPhone with These Expert Soft Restart Techniques</u></a></li>
+<li><a href="https://win-info.techidaily.com/robocopy-utilisation-en-ligne-de-commande-pour-windows-10-guide-complet/"><u>Robocopy Utilisation en Ligne De Commande Pour Windows 10 : Guide Complet</u></a></li>
+<li><a href="https://win-info.techidaily.com/schneller-weg-zur-wiederherstellung-geloschter-mysql-datenbanken-schritt-fur-schritt-anleitung/"><u>Schneller Weg Zur Wiederherstellung Gelöschter MySQL-Datenbanken - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-info.techidaily.com/shimmer-shots-the-art-of-setting-the-scene-with-light-for-2024/"><u>Shimmer Shots The Art of Setting the Scene with Light for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
+<li><a href="https://win-info.techidaily.com/update-fur-windows-11-version-22h2-installation-nicht-sichtbar/"><u>Update Für Windows 11 Version 22H2 - Installation Nicht Sichtbar</u></a></li>
 </ul></div>
 
